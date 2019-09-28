@@ -1,0 +1,45 @@
+Question;Answer;Upvote
+simple design questions.;https://www.glassdoor.co.in/Interview/simple-design-questions-QTN_1321740.htm;16
+Questions related to domain and general problem solving skills such as finding highest and second-highest number from a list with minimum iterations.;https://www.glassdoor.co.in/Interview/Questions-related-to-domain-and-general-problem-solving-skills-such-as-finding-highest-and-second-highest-number-from-a-lis-QTN_1597271.htm;1
+LRU implementation.;https://www.glassdoor.co.in/Interview/LRU-implementation-QTN_2782079.htm;0
+Indexing in DBMS and its implementation.;https://www.glassdoor.co.in/Interview/Indexing-in-DBMS-and-its-implementation-QTN_2782080.htm;0
+Spiral Traversal of tree;https://www.glassdoor.co.in/Interview/Spiral-Traversal-of-tree-QTN_2779714.htm;0
+Write a code to separate array elements into two partition such that sum of each partition is equal.;https://www.glassdoor.co.in/Interview/Write-a-code-to-separate-array-elements-into-two-partition-such-that-sum-of-each-partition-is-equal-QTN_2802270.htm;0
+they asked me about the dynamic Programming;https://www.glassdoor.co.in/Interview/they-asked-me-about-the-dynamic-Programming-QTN_3159547.htm;0
+HLD;https://www.glassdoor.co.in/Interview/HLD-QTN_3197436.htm;0
+LLD;https://www.glassdoor.co.in/Interview/LLD-QTN_3197437.htm;2
+How will you onboard a new hotel on oyo platform. What process will you follow;https://www.glassdoor.co.in/Interview/How-will-you-onboard-a-new-hotel-on-oyo-platform-What-process-will-you-follow-QTN_3197438.htm;0
+Detect loop in linked list.;https://www.glassdoor.co.in/Interview/Detect-loop-in-linked-list-QTN_3085966.htm;
+Print left view of a binary tree.;https://www.glassdoor.co.in/Interview/Print-left-view-of-a-binary-tree-QTN_3085967.htm;
+OOPs concept and diff between array and linked list.;https://www.glassdoor.co.in/Interview/OOPs-concept-and-diff-between-array-and-linked-list-QTN_3085968.htm;
+Graph related question;https://www.glassdoor.co.in/Interview/Graph-related-question-QTN_2932105.htm;
+They are trying to know how I handle a particular situation. They asked me about strings and hashing questions they generally asked about data structures and want me to give the optimal solution and they also want to know how I solve a particular question.;https://www.glassdoor.co.in/Interview/They-are-trying-to-know-how-I-handle-a-particular-situation-They-asked-me-about-strings-and-hashing-questions-they-general-QTN_2842861.htm;
+25 Mcqs on (Mostly)Operating systems, DBMS,etc..;https://www.glassdoor.co.in/Interview/25-Mcqs-on-Mostly-Operating-systems-DBMS-etc-QTN_2988271.htm;0
+Coding Q1. Find missing number in a given array from 1 to n;https://www.glassdoor.co.in/Interview/Coding-Q1-Find-missing-number-in-a-given-array-from-1-to-n-QTN_2988272.htm;0
+Coding Q2. Best time to buy and sell only maximum 2 transactions are allowed;https://www.glassdoor.co.in/Interview/Coding-Q2-Best-time-to-buy-and-sell-only-maximum-2-transactions-are-allowed-QTN_2988273.htm;0
+one war dp and other backtacking;https://www.glassdoor.co.in/Interview/one-war-dp-and-other-backtacking-QTN_3016838.htm;2
+Given an array find two number that add to a sum.;https://www.glassdoor.co.in/Interview/Given-an-array-find-two-number-that-add-to-a-sum-QTN_2939116.htm;0
+Given an array of int find 3 number that add to a sum;https://www.glassdoor.co.in/Interview/Given-an-array-of-int-find-3-number-that-add-to-a-sum-QTN_2939117.htm;0
+Given an array find a subset that add to a sum;https://www.glassdoor.co.in/Interview/Given-an-array-find-a-subset-that-add-to-a-sum-QTN_2939118.htm;0
+Find first non repeating character in a string;https://www.glassdoor.co.in/Interview/Find-first-non-repeating-character-in-a-string-QTN_2939119.htm;0
+Given an array of numbers.You have to selected some elements such that their sum is maximum.Condition-If you select ith(value not index) number you cannot select i+1 and i-1.;https://www.glassdoor.co.in/Interview/Given-an-array-of-numbers-You-have-to-selected-some-elements-such-that-their-sum-is-maximum-Condition-If-you-select-ith-va-QTN_2939120.htm;1
+clone a linked list with random pointer without modifying it?;https://www.glassdoor.co.in/Interview/clone-a-linked-list-with-random-pointer-without-modifying-it-QTN_2101445.htm;0
+implement auto correct?;https://www.glassdoor.co.in/Interview/implement-auto-correct-QTN_2101446.htm;
+implement lift find the next floor where lift to be stopped?;https://www.glassdoor.co.in/Interview/implement-lift-find-the-next-floor-where-lift-to-be-stopped-QTN_2101447.htm;
+Find the biggest island of 1's in a nxn matrix which contains only 0s and 1s;https://www.glassdoor.co.in/Interview/Find-the-biggest-island-of-1-s-in-a-nxn-matrix-which-contains-only-0s-and-1s-QTN_2175463.htm;
+Maximise sum of i*a[i] in a array where we can only do array rotation;https://www.glassdoor.co.in/Interview/Maximise-sum-of-i-a-i-in-a-array-where-we-can-only-do-array-rotation-QTN_2175464.htm;
+Sort an array of 0's and 1's in O(n) time.;https://www.glassdoor.co.in/Interview/Sort-an-array-of-0-s-and-1-s-in-O-n-time-QTN_2170653.htm;
+Given a source, destination and matrix count the minimum number of steps needed to reach the destination from the source;https://www.glassdoor.co.in/Interview/Given-a-source-destination-and-matrix-count-the-minimum-number-of-steps-needed-to-reach-the-destination-from-the-source-QTN_2197650.htm;
+Given a matrix. '.' represent empty blocks, M represent starting home, P represent ending home and B represent a home. you cannot pass through B. give minimum distance from M to P;https://www.glassdoor.co.in/Interview/Given-a-matrix-represent-empty-blocks-M-represent-starting-home-P-represent-ending-home-and-B-represent-a-home-you-QTN_2205638.htm;
+Cycle in LL, Check Whether a Binary Tree is a BST or not. LRU cache. Design a hotel booking system.;https://www.glassdoor.co.in/Interview/Cycle-in-LL-Check-Whether-a-Binary-Tree-is-a-BST-or-not-LRU-cache-Design-a-hotel-booking-system-QTN_2205639.htm;
+print left view of binary tree;https://www.glassdoor.co.in/Interview/print-left-view-of-binary-tree-QTN_2216128.htm;
+given an integer, generate all valid parenthesis pair patterns.;https://www.glassdoor.co.in/Interview/given-an-integer-generate-all-valid-parenthesis-pair-patterns-eg-n-2-valid-pairs-are-QTN_2216129.htm;
+how to implement fill function in ms paint.;https://www.glassdoor.co.in/Interview/how-to-implement-fill-function-in-ms-paint-QTN_2216130.htm;
+Given an array of integers,print all the pairs whose sum is present in array?;https://www.glassdoor.co.in/Interview/Given-an-array-of-integers-print-all-the-pairs-whose-sum-is-present-in-array-QTN_2132486.htm;
+Algorithms questions, I did good, but the interviewer was rude.;https://www.glassdoor.co.in/Interview/Algorithms-questions-I-did-good-but-the-interviewer-was-rude-QTN_2147542.htm;0
+Round 1: Written round;https://www.glassdoor.co.in/Interview/Round-1-Written-round-A-Given-an-array-of-integers-print-all-the-pairs-whose-sum-is-present-in-array-B-Linkedlist-sum-QTN_2141962.htm;2
+Develop the DBMS for Hotel Booking System;https://www.glassdoor.co.in/Interview/Develop-the-DBMS-for-Hotel-Booking-System-QTN_2253069.htm;2
+burst air balloons;https://www.glassdoor.co.in/Interview/burst-air-balloons-QTN_3393999.htm;0
+minimum sum path matrix;https://www.glassdoor.co.in/Interview/minimum-sum-path-matrix-QTN_3394000.htm;0
+to rotate a linked list with has its last node pointing the middle element of the list;https://www.glassdoor.co.in/Interview/to-rotate-a-linked-list-with-has-its-last-node-pointing-the-middle-element-of-the-list-QTN_3437604.htm;0
+Binary tree to doubly linked list;https://www.glassdoor.co.in/Interview/Binary-tree-to-doubly-linked-list-QTN_3441581.htm;

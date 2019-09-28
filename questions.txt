@@ -1,0 +1,1934 @@
+///////////////////////
+https://www.glassdoor.co.uk/Interview/Amazon-Software-Engineer-Interview-Questions-EI_IE6036.0,6_KO7,24.htm
+///////////////////////
+Polymorphism, inheritance - advantages etc
+Linked list, array, Hashtable - complexities space requirements etc.
+Design a deck of cards
+check if elements of one string exist in a 2nd string
+We have numbers from 1 to 52 that are put into a 51 number array, what's the best way to find out which number is missing?
+On the phone interview I was asked to write program for DFS and BFS. There was also a function I was asked to write about hashcode for a string key object. What were the limitations of the function. How many keys can I have for my hashmap.
+In the onsite technical interview, I was asked to draw uml class diagrams for designing a FileSystem, designing a Chess, designing the autocorrection feature in word (specifying datastructures to use, classes etc.).
+Having a reference string and an array of strings how do we write an efficient algorithm to find which string in the array contains the same letters as the reference array
+Describe in detail what happens when you click on the amazon website
+Given a linked list, write a method that reverses it.
+Given two large files of integers, only one byte difference. Find out this byte if memory is limited.
+we have 3 log files which contain details of custId, PageId, date/time of visit. find 3 most frequently visited pages (in order ..if we have 5 pages A B C D E and the entries are sorted by date . say sequence is A B D A B C D A B ) which were visited by a customer then answer shud be A B D ( like even if…
+About Quicksort
+List some design patterns
+Was there a time you went against the advice of your supervisor / advisor?
+write a method which takes x/y coordinates for a point for a graphics program and implement a bucket-fill (change all the surrounding pixels of the same color to the new color)
+Polymorphism, inheritance - advantages etc
+Linked list, array, Hashtable - complexities space requirements etc.
+Design a deck of cards
+check if elements of one string exist in a 2nd string
+We have numbers from 1 to 52 that are put into a 51 number array, what's the best way to find out which number is missing?
+On the phone interview I was asked to write program for DFS and BFS. There was also a function I was asked to write about hashcode for a string key object. What were the limitations of the function. How many keys can I have for my hashmap.
+In the onsite technical interview, I was asked to draw uml class diagrams for designing a FileSystem, designing a Chess, designing the autocorrection feature in word (specifying datastructures to use, classes etc.).
+Having a reference string and an array of strings how do we write an efficient algorithm to find which string in the array contains the same letters as the reference array
+Describe in detail what happens when you click on the amazon website
+Given a linked list, write a method that reverses it.
+Given two large files of integers, only one byte difference. Find out this byte if memory is limited.
+we have 3 log files which contain details of custId, PageId, date/time of visit. find 3 most frequently visited pages (in order ..if we have 5 pages A B C D E and the entries are sorted by date . say sequence is A B D A B C D A B ) which were visited by a customer then answer shud be A B D ( like even if…
+About Quicksort
+List some design patterns
+Was there a time you went against the advice of your supervisor / advisor?
+write a method which takes x/y coordinates for a point for a graphics program and implement a bucket-fill (change all the surrounding pixels of the same color to the new color)
+Write code for a tree whose number of children is configurable
+You are given a binary search tree of integers. Given a target integer, find the greatest integer that is smaller than the target integer.
+Design a class diagram for the game of chess.
+Figure out an automated way to do accessory recommendations for various products.
+Talk about how hash maps work, with their advantages and drawbacks.
+Justify whether a binary tree is a BST.
+You are given 3 chances to drop a non-biased dice (with number from 1-6). You can stop earlier, but the number of final drop is the money you can get. Give a strategy to maximize the money you can get.
+Given k number of sorted arrays, describe an algorithm to merge them into one array with each element remain sorted. Analyze the complexity.
+Given a series or integers, write a program to print them out in random order in equal probabilities. In other words, each time your program runs the output should be different, but each output has equal probabilities.
+Reverse a string.
+Given a integer array, find the subsequence with max sum.
+Design a application installer, that update the progress bar periodically.
+Code to find median in BST
+Code to check if a Binary tree is symmetrical.
+Add long integers using linked list
+Implement a hash map along with get and put function
+Design a video library
+function: Divide 2 number without using divide operator
+How would you design a deck of card in an OO language.
+Given array A of size n, generate array B of size n, such that: A[i] = B[i]/(Sum(A[0] ... A[n-1])
+integer palindrome: give character which appeared max in string
+Find the angle between the hour hand and the minute hand on a clock given the hour, minute and second.
+How do you find the fifth last element of the linked list using only one traversal
+Design a "Subscriber - Broker - Publisher" architecture (a) running on a machine; (b) running on a cluster. Write the code for the 3 classes.
+What happens when (with the socket and etc) a user enters "amazon.com" in their browser?
+Given a sample array of integers containing a zero at random location, return reversed sub array before the first 0. Give the full method implementation.
+What is the fast sorting algorithm and why?
+Compilation diffs b/w c++ and java/c#? Advantages of IL and JIT?
+Advantage of factory pattern? Singleton class?
+Mutable vs immutable types? Advantage of immutable types?
+Details about Hashtable? Good hash function? HashTable time complexities? Binary search complexity?
+Revert word sequences in a string
+Design a web site which can collect user clickstream data
+Advantages of hash table
+You are given the head node of a binary tree. Find the height of the tree.
+Write a function atoi in C, which takes a String as input, such as "123", and outputs an int, in this case 123.
+find the most frequent appeared web click sequence of 3.
+Add two numbers represented by linked list, starting from higher digit.
+What's hashtable?
+reverse a linked list
+Find all the common elements between two arrays.
+Write code to check if a given tree is a Binary Search Tree (BST).
+Design a hotel reservation system.
+Design an elevator system using object oriented methodologies.
+Design a Least Recently Used (LRU) cache.
+judge if a tree is balanced
+What is the difference between abstraction, encapsulation, and inheritance?
+write a function to determine a BST
+say about challenging part of your previous work experiences
+Create an algorithm that will navigate a maze.
+Design a Parking Lot in terms of OOP concept
+Implement a queue using two stacks
+The first int: Create Queue class based on Stack (suppose Stack is already written and has basic methods). Change the class for using in multithread env.
+The first int: Monday, you recognize you web-site works very slow. Describe how you will investigate the problem.
+The second int: You have a file like this:
+Write a function to validate a binary tree
+why amazon?
+power of a number
+Design Dictionary using TRIE (write insert and search function for TRIE)
+Design a Chess game with OOD
+Design expression tree with OOD
+Dynamic programming question.
+How to design a cross-road traffic light system?
+How to design Amazon's warehouse shipping system?
+differences between arrays and pointers
+hash table
+You need to design a system to provide answers to factorials for between 1 and 100. You can cache 10 numbers. How would you arrange/manage that cache, and what is the worst case for lookup on a cache miss?
+Using Stack structure only to implement Queue.
+Write a function to mirror a binary tree (left node to right, right to left, etc).
+What complexity would sorting add to an array list?
+How would you design the game monopoly?
+How would you build a reservation system.
+Phone: Intersection of to set!
+Phone: reverse the letter of each word in a string! the position of the words should not be changed!
+What is method overloading and method overriding?
+What is the difference between arrays and linked lists?
+Implement a cache in Java.
+Have you ever had to convince a teammate to implement a problem in a way different than their own?
+How would you determine how relevant a book is to a particular search query? What parts of the book would you search and how would you weight them?
+A part of developing a good search algorithm is determining how close the query terms are to one another in a document. Develop an algorithm for finding the shortest distance between query terms in a document.
+What is a priority queue?
+Given a binary tree with only upwards (parent) node references, re-construct the tree adding in child references. You are given a list of leaf nodes (sorted in left to right order). Tricks include making sure to account for extremely unbalanced trees.
+Given a large file (&gt;500GB), sort entries.
+Given a balanced binary tree implemented with standard child node references, re-implement in array format.
+Design a distributed system for handling records. Address scalability.
+Additional questions included a variety of algorithm questions including sorting, searching, and graph questions. Solutions typically required use of heap, linked list, queue, hash table (ALWAYS THINK HASH TABLE FIRST), and graph data structures. Almost all questions included run-time analysis and optimization follow-ups.
+Write an algorithm to check if an array holds a string value that you are passing in.
+I am your student can you please explain me HashTable? What is chaining?
+There are 199 elements in array. It has only one distinct value? How will find this distinct value? Also for solution please tell about O(n)?How can you make it more efficient?
+Design a generic UML diagram for an organization that can be implemented for all the companies (from small to large)? Include reporting structure, adding, search, and removing employee.
+How would you implement a file system.
+Design an object oriented design for Black Jack game
+Write a function that allows to convert a string to the corresponding number (i.e. implement the atoi() C function)
+Given a (potentially large) array of integers, all but one repeating an even number of times, how would you find the one repeating an odd number of times in an efficient way?
+Design the classes of a restaurant reservation system
+Write a C/C++ function to decode url’s string in place. The special characters to handle are:
+How would you design a system for the generation of book indexes (i.e., you want to generate at the end of the book, a section where the words are indexed with the pages where they can be found)
+Given the Node in the graph, how would you find if the node leads to the cycle.
+What is deadlock? Can you give an example?
+Write an algorithm to determine whether a given number is of the form (2^n)+1, where n is an integer.
+Write an algorithm to output every possible string that can generated by a given 10-digit telephone number. (You know, how when you look at your phone's keypad the number 2 corresponds to A, B, or C, the number 9 corresponds to W, X, Y, or Z, etc.)
+Describe how you would design an algorithm to implement the behavior of make (i.e., the algorithm should parse a makefile and build the program).
+Describe how you would design an elevator system in an object-oriented manner.
+Your website is slowing down. How do you find the cause of the problem?
+Reverse the words in a string. Code it.
+Find the intersection of two arrays. Code it.
+Print all the possible permutations of a character string.
+FInd longest palindrome in given string
+Given n Cartesian coordinates find largest/smallest amongst them
+What is a Hash Table
+Collision resolution strategy for a Hash Table
+Implement the floodfill algorithm of a paint program
+What is a pointer?
+What is a memory leak?
+What is a hash map? How does it work? What is a hash function
+Given an array of unsorted integers, determine which number appears most often.
+Describe hashtable.
+How do virtual functions work?
+Write code to find the smallest two numbers in an array.
+Design an airline reservation system. (using OOD, without concerning databases)
+How do you avoid collisions when multiple keys map to same hash value.
+Difference between a process and a thread.
+Find longest dominoe train in a generated set of 10-15 dominoes.
+What is your plan for the future?
+A very fast technical question that came out of nowhere in a middle of light conversation. Be prepared to know what you talk about.
+Write an algorithm to return the intersect of two arrays.
+Extract the N largest floating point numbers from a large file of floating point numbers.
+Given a list of integers, some of which may be negative, extract the pair that sums to the largest number.
+Are you familiar with Design Patterns? What is the Strategy pattern? What is a Singleton?
+How do you insert into a binary tree?
+Describe what happens between the time a person types in "www.amazon.com" and they see the web page on their computer.
+Find the most common word in a string.
+Design a deck of card. Design a class of elevator
+code boggle game, find all possible words.
+I had a difficult question about a cuboid composed of smaller cubes. How many cubes are there where exactly two faces of the cube are exposed?
+Find the first non-repeating character in a string
+How would you design a class heirarchy for a card playing game.
+I was asked to write a perl program that shuffles a deck of cards randomly
+How do you check if the given binary tree is binary search tree?
+Was given a homework question(2days): Program using a language of your choice the following assignment, given a file of sorted strings (one string per line, example file was given) sorted according to some unknown alphabet, recover the order of characters of this alphabet.
+Given an array of integers, find two which sums to a given number
+How to store a bunch of IP addresses in sql table
+what is your biggest setback?
+Since you are working on web application, what would be the problem you think Amazon would encouter ?
+Questions from careercup.com
+B Tree to implement searching for phone number
+Describe a difficult technical issue you faced. How did you go about solving it?
+How would you design an elevator control system in the highrise?
+How do you find sequences of consequtive integers in a list that add to a particular number.
+Find if there are any pairs of numbers in a list which can be added up to a target number.
+Implement a simple load balancing algorithm in pseudo code (over the phone)
+The most technically challenging work/project. Describe that and tell why was it so.
+whats the difference between aggregation and association in a UML class diagram?
+Print out all the permutations of a string.
+You are to write a spell checker. Discuss the API, Data Structures and Algorithms.
+Return k most frequent words in the text. Subsequent questions: what if we have very large text file? Can we distribute this process for multiple machines? What if we have limited memory?
+If I am available for relocation, Java general questions, algorithmic questions
+Q: introduce yourself the most proud project
+7 online debugging questions
+Given an array of integers, rotate it one position.
+Implementing a binary search tree
+Find the maximum integer in an array of integers. Array could be really large.
+Given a maze, find the way from top-left corner to bottom-right corner.
+Design question on first interview
+There will be 2 individual interview during afternoon, all the question is about the project you a dealing with. Nothing about your personal experience or something in the resume.
+What is HashTable? How does it work in the backend perspective? What to do if the collision happened? Whats the time complexity of inserting? deleting? seaching? What's the time complexity for the worse case?
+What is binary search tree? Whats the time complexity of inserting? deleting? seaching? What's the time complexity for the worse case?
+Whats the advantage of using BST rather than hashmap?
+Online coding interview:
+Very simple and common interview questions. They should not have been able to differentiate candidates with at least basic competency. This is probably due to the hiring event. They were interviewing dozens of candidates onsite every week.
+What was a commitment that you couldn't keep?
+For a bitmap editor, given an x,y location and a color, write a series of methods for a Fill operation like the paint bucket, except only change the color of the outer boundary of what would be filled.
+They were asking unexpected questions about working experience. For example, tell me the case where you were above expectations. All interviewers had this type of questions
+Had trouble with binary tree question, but should be easy with more preparation
+If you are a web administrator, and you receive an DDoS Attack, were there are "N millions" of hits at the same time, how do you avoid the servers going down?
+Given a list of 2D coordinates representing boundaries of a 2D shape and an internal point (x,y) within the 2D shape.
+Most questions are reasonable. The last question is harder, maybe that is the so called bar raising question
+List many HTTP status codes.
+OOP questions
+The most difficult situation is when the interviewer seems doing his own stuff and not paying attention to you.
+- Balance a BST
+All questions were standard, nothing difficult.
+General Data structures and algorithms question
+Tell me about yourself?
+2D array check if there are duplicates 2 indices away , and 2D array rotate each element clockwise + ensure square matrix
+How would you implement the feature on a product page which shows "People also purchased..."
+They asked if I would be able to move to Seattle. I don't remember if a relocation package was available.
+Questions were centered around Hash Tables. Complexity, amortized analysis (how would the mechanics work with chaining/open addressing?).
+Counting the number of 1 bits in the binary representation of a given integer.
+Given a tree, serialize it into a string that can later be parsed and used to rebuild the original tree.
+Basic tree, Hash set problems
+10 different coding data structure assignment in very less time via HackerRank.com
+How to find the best combination of days to buy and sell stocks from the given array of prices.
+1. Implement a split function for strings;
+Not so difficult, the two programming problem is simple to implement.
+Implement strstr() function in C
+In the sequence of numbers what comes next?
+Given a list of numbers, find the pairs that add up to a certain sum.
+Given a list of numbers, find the pairs that add up to a certain sum.
+Given an array containing the pre-order and in-order tree traversals of a tree, recreate the original tree.
+Describe a challenging project or work you've done. What's the greatest gain of this project.
+Some questions about hashmap and array list
+I was asked to write iterator function for a binary serach tree?
+What is heap?
+Where did you studied? Tell me about projects that you participated so far.
+behavior question
+Writing code on a laptop.
+Was a simple OO programming question involving hashtables.
+Most questions were focused around CS topics, algorithms and data structures.
+array intersection
+How are ArrayLists implemented internally?
+Nothing unexpected.
+some of their project names was unfamiliar
+Given a number, write code to count how many 1s are there in its binary form
+How would you optimize the implementation that you provided from O(n2)?
+system scalability: how would do to make a mobile app to go national
+given two nodes and a tree, find the lowest common ancestor
+all questions are basic cs knowledge
+///////////////////////
+https://www.glassdoor.co.uk/Interview/Salesforce-Solutions-Engineer-Interview-Questions-EI_IE11159.0,10_KO11,29.htm
+///////////////////////
+How will your current experience provide value.
+What are some best practices you bring to this role?
+I was asked about my thoughts on switching industries from Healthcare/Med Devices to technology.
+Why would someone buy Salesforce? Give me your elevator pitch.
+Why Salesforce?
+What do you see as your biggest challenge if you were to join Salesforce?
+How do you balance working with different personalities + work styles?
+What was your worst experience working with a team?
+Is Salesforce something that we could implement ourselves? (asked during the panel presentation)
+What was the last thing you learned?
+What previous technical pre-sales experience do you have?
+"This seems just like more of a headache for me as a sales rep. More ways for my manager to micro-manage and more time for me to get things done, how does it help?"
+How will your current experience provide value.
+What are some best practices you bring to this role?
+I was asked about my thoughts on switching industries from Healthcare/Med Devices to technology.
+Why would someone buy Salesforce? Give me your elevator pitch.
+Why Salesforce?
+What do you see as your biggest challenge if you were to join Salesforce?
+How do you balance working with different personalities + work styles?
+What was your worst experience working with a team?
+Is Salesforce something that we could implement ourselves? (asked during the panel presentation)
+What was the last thing you learned?
+What previous technical pre-sales experience do you have?
+"This seems just like more of a headache for me as a sales rep. More ways for my manager to micro-manage and more time for me to get things done, how does it help?"
+This seems like it will add more tasks to complete; how will help me to sell better?
+in Mock pitch setting: "How much coding is involved in the implementation"?
+How would you approach the development of a customer journey for a client?
+Have you worked for Salesforce before?
+Situational questions specific to the role and how I would handle
+Tell us about a new technology you have learned.
+Why is Salesforce better than other large competitors like Microsoft Dynamics or Zendesk?
+What do you think will be your biggest challenge in onboarding?
+What type of environment do you thrive in?
+What did you do to prepare?
+In the demo: How will Salesforce generate value for my organization?
+The interview format was very conversational and laid back. I wouldn't say there were any formal questions, just asking about my experience and my background and what in my past might prepare me for the job. The formal in-person panel interview was very intense. Candidates have to prepare a presentation and then present it in front of peers and more senior level employees.
+The most unexpected question was surrounding what I do to relax or de-stresss.
+Can you help us understand how you would work with account managers in this role?
+How much time did you spend preparing for your demo?
+Q: describe me the Lightning app Builder
+How would you handle multiple requests for your time when it comes to presentations/demos?
+Why Salesforce?
+What specialty can you bring to the team that sets you apart?
+Q: How would you design an integration solution for Salesforce with multiple applications like Workday, SAP, and Oracle DBs?
+How will you be successful as a solutions engineer?
+It started with your standard STAR questions, but during the panel demo it was a real-life demo situation where the attendees acted like potential customers. They asked technical and sales-related questions to test not only your knowledge of the platform but your sales abilities as well.
+Why Salesforce?
+There was a case interview.
+Did you spend a lot of time branding this yourself because it looks sharp?
+Position was for a specific and specialized product. Questions were open ended and to gauge my experience in this field that is new to Salesforce.
+How would you make a recommendation to an enterprise client about how to allocate resources and investment across their marketing technology and advertising technology stack?
+How would you prepare the room for a client presentation that is partially in-person and partially using technology (screenshare, webcam, etc.)?
+What would you do if you were pressured by your AE to push a product you didn't think was necessarily the best for the customer but would help you both reach your quota?
+How did you prepare?
+What do you know about our culture?
+The panel interview included a lot of questions regarding the benefits of Salesforce in the specific scenario
+What makes me want to work for Salesforce?
+They typically just asked about my background and my interests (probably for fit) along with some of my tech and sales knowledge/experience.
+Why do you want to work at Salesforce?
+How would you describe the term "Value Selling"?
+Tell me about yourself.
+Since the solution is very industry-specific, I was asked to explain what experience I had within this industry that would be applicable to the role.
+The interview didn't really revolve around specific questions, but was more interested in finding a fit between candidate and role. I can't think of any questions that stood out in my mind.
+You're in an elevator with the CEO and you have 1 minute to pitch SF, what would you say?
+Our existing product already does this. What's so special about Sales Cloud?
+Why wouldn't we go with something considerably cheaper?
+How does this help my team sell?
+Why Salesforce?
+Create a presentation based on a case study and present it to a Salesforce panel role-playing as a customer executive team.
+Why are you interested in working for salesforce? What excites you about salesforce? What volunteer work are you involved in outside of work?
+How would you handle a last minute work request that required working the weekend to complete by Monday?
+Why are you leaving your current employer
+They asked several situation behavioral questions.
+Discuss a scenario using a company you know, where you think Salesforce could make the biggest impact and how?
+What are the top three messages you want me to take away from this presentation?
+Create a legacy application for a fictional company and then modernize that application using MuleSoft technology. Once that is done, present the solution to the team.
+Why do you want to work at Salesforce?
+Asked me to learn Salesforce via a free course, then asked me to create an app on Salesforce for a music festival management, and demo it to them via Skype.
+What unique talent will you bring to the team?
+What would you do if you get an RFP on Friday afternoon that is due on Monday?
+What makes you different than other candidates? Why you?
+How did you prepare for this demo and pitch?
+What experience do you have that makes this role a good fit for you?
+Tell me about you.
+What questions do you have for me?
+Why do you want to work for Salesforce?
+Personality based questions
+Describe how you handle competing responsibilities and how you would approach working with a new employee.
+What motivates you?
+The questions were standard, but with the intent to get to know you and your character. Nothing to trick you, just be open.
+No difficult questions were asked
+What drew you to this role?
+Tell me about a time when you had to manage multiple stakeholders in a meeting?
+Why do you want to work at Salesforce?
+Tell me about something you're really proud of?
+What are you main drivers to join Salesforce?
+What do you know about Salesforce?
+Why Salesforce?
+How do you differentiate yourself?
+Tell us a recent deal you have won?
+Tell us about a recent deal you have lost?
+Why Salesforce?
+How would you prioritize multiple requests for demos if you only had enough bandwidth to support one?
+What have you been doing in the last year that you have been out of a job?
+Why do you want to work for Salesforce in particular?
+What excites you about the role of a Solutions Engineer?
+what's sales process in your company?
+What’s make Salesforce different from the competitors
+Why do you want to work at Salesforce?
+Introduce yourself
+Why Salesforce
+How can you transfer your skills into a role at salesforce
+About Multi Tenancy, Hardware requirements and Cloud Related questions. How SFDC is better than Dynamics.
+Experience in ecommerce
+How did you treat a previous project on ecommerce
+Why Salesforce?
+Presentation:
+How would you implement/roll out Salesforce (based off presentation)
+Q: what attracts you in the role of Solution Engineer?
+Tell us about a successful deal you worked on. How did you contribute value to this? How did you leverage your internal network?
+Why are you considering Salesforce and why now?
+Name a few competitors
+Tell me the difference between a SOAP and a restful service
+Describe a situation when you disagreed with your line of management
+Questions are based on the solution you have created, so be prepared and know your solution inside out. They will also throw in some Salesforce platform questions which you can either answer or show how you will handle a question you didnt know the answer to.
+What you know about SOP?
+If you don't get the job, what's next for you?
+Why Salesforce? Why you left this company?
+Explain multi tenancy
+What do you do if we do not give you the position?
+In the first two interviews, questions were asked about my personal development, and some questions about programming and English language skills.
+///////////////////////
+https://www.glassdoor.co.uk/Interview/Google-Technical-Program-Manager-Interview-Questions-EI_IE9079.0,6_KO7,32.htm
+///////////////////////
+Implement a queue in an array.
+Cannot answer because of NDA
+following questions were asked. Describe raids on disk arrays(raid5 vs mirroring ). what is Ethernet, difference between TCP and UDP, multithreading definition? what are threads. What is a critical path in project management.. What methodology do you use in your project management.
+select two numbers whose sum is under a given number.
+Given a CSV file, how can I parse all lines with a given string
+General PM questions about past experiences and how I handled them.
+What were your duties at your last position, what is your education level, etc
+You have to move 100 Petabytes of data from the East Coast to the West Coast, how long will it take.
+Cannot disclose, but it was very technical.
+Tell me about your experience with the cloud (AWS, VMware, Azure, GCP, etc.)
+Implement a queue in an array.
+Cannot answer because of NDA
+following questions were asked. Describe raids on disk arrays(raid5 vs mirroring ). what is Ethernet, difference between TCP and UDP, multithreading definition? what are threads. What is a critical path in project management.. What methodology do you use in your project management.
+select two numbers whose sum is under a given number.
+Given a CSV file, how can I parse all lines with a given string
+General PM questions about past experiences and how I handled them.
+What were your duties at your last position, what is your education level, etc
+You have to move 100 Petabytes of data from the East Coast to the West Coast, how long will it take.
+Cannot disclose, but it was very technical.
+Tell me about your experience with the cloud (AWS, VMware, Azure, GCP, etc.)
+How do you prioritize tasks when you don't have the resources to complete all of them
+What is a Company switch?
+PM skills
+System design
+SW coding
+General behavioral questions, technical interviews was more like walking through coding solutions for a typical business problem.
+Basic behavioral questions.
+Give us an example of when you faced a technical and a people challenge at the same time?
+Run of the mill questions with the recruiter, nothing challenging or different from the standard superficial questions you'd be asked elsewhere.
+Describe a major problem or setback in a project and how you overcame it
+Why Google?
+All the general PM questions - How do you manage a project? How do you manage a slip? when to escalate? how do you get through a tough delay?
+Describe and whiteboard a continuous deployment system.
+How would you write code for something you knew nothing about?
+Signed an NDA
+General project management questions. Check out PMP, Six Sigma, and PRINCE2 frameworks.
+General TCP/IP questions.
+How would you manage a team that had conflicting paths on how to proceed?
+What do you consider traits of a good leader?
+Interviewer asked set of written questions and expect answers according to his view. He doesn't even have basic skill about project management. It is all about applying processes and processes for individual project, what is best suitable for your project. I thought he was book worm and expect standard answers available in his answer sheet. It total waste of my time.
+Describe how you manage risk and a real life example thereof.
+Given a project deadline, limited resources, how would you complete the project successfully?
+What do you consider your technical area of expertise?
+How do you make sure you are delivering quality in your product or service?
+What is Young's modulus?
+Estimate the number of spark plugs in the state of California.
+Be prepared to dig deep into your skillset for the program manager position this included 3 skillset interviews.
+How would you prepare a 5 page or less powerpoint for the executive team?
+How would you prepare a forecasting tool/document?
+- compare agile to waterfall methodologies
+Why Google?
+The questions for the TPM roll or not that difficult for me as I have an engineering background. Most questions were about thinking programmatically and algorithmically. None of the questions were real world examples they were all hypotheticals.
+I had no brain teasers. No fluff like estimating the number of gas stations, round manhole covers, or grains of rice in China. They expect excellent CS fundamentals: algorithms, data structures and solid coding ability.
+Recruiter said interview will be based on role based questions, behavioral questions, situation questions and giggly questions but i was only asked on few general role related questions and few PMI questions.
+What are the top five things that go wrong during a project?
+If you can ascend a staircase two different way, i.e. one step at a time or skipping one step, how many possible ways to climb this staircase?
+If you find a very critical bug in software on the day before its scheduled release date, how would you handle this situation?
+The questions were clear & direct to the answers, might took time from me during the interview it self to reply directly to the point the Hiring Manger needed,But it is very hard to Summarize Decade/s of your Career experience in few Lines presented in Resume, Or Minutes during the Interview.
+Recruiter: Program vs Project management, constraints of project management, path of project management, situational questions regarding running a project.
+Describe how you would build a &lt;bunch of jargon&gt;.
+If you're familiar with PMP, it is an easy interview.
+Can't really think of one - questions are what I expected
+Non-disclosure prevents me from listing questions.
+Nothing really difficult, just situational types of questions. What did you do on x project, etc. No brain teasers.
+If you have n machines with a 10 GB string of characters on each, how do you find the most common character?
+Was asked to write code to compare couple number pair to see if they have overlap, and print out the boundaries
+How would you build global system to upgrade software on a fleet of machines?
+Converged Infrastructure technologies and how I worked with the vendors on my projects/programs
+General scenario based questions - the same type you find when you google interview questions for program management jobs.
+Some technical questions as well as behavioral and scenario based questions. Can't disclose because of NDA.
+Design a web cache.
+Describe a project where you worked with difficult clients and how you overcame the challenges
+I see X on your resume. How would you describe that to someone just starting out?
+Interview questions are under confidentiality agreement and cannot be revealed. However, they ranged in topics from career history, architecture, design philosophy, project management topics and getting to know you questions.
+Experience and describe specifically your role and understanding of data center and contact center issues, experiences, and technology used
+Don't believe in giving out others questions. With Google, you either know the subject matter or don't. Especially for this position. If you want to prep, study Map Reduce and related problems.
+What was the greatest challenge you ever faced on a project you were managing and how did you handle it?
+Design a the server infrastructure for gmail.
+How would you figure out how many gas stations there are in the US
+Most were standard questions, but I did get grilled on defining technical terms about development methodologies.
+General experience based questions and problem solving question
+Mostly behavioral questions
+Mix of technical and behavioral questions.
+No brain teasers but deep technical knowledge required
+Program management, technical and behavioral questions.
+General experience, background?
+Please describe most failure project
+Describe how you managed the project xxxxx
+///////////////////////
+https://www.glassdoor.co.uk/Interview/Facebook-Software-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,26.htm
+///////////////////////
+Code a program to check if a given string is matching a given regular expression
+Binary trees, hash tables (and locking), cache
+Given a set of integers, print out all its subsets. Write C/C++ code to solve it.
+Are there any bugs in your code?
+Tell me about your experience?
+Given a matrix print it clockwise from the first element to the very inner element.
+basic string operations, trees, sorting
+Write binary search?
+You are trying to rob houses on a street. Each house has some +ve amount of cash. Your goal is to rob houses such that you maximize the total robbed amount. The constraint is once you rob a house you cannot rob a house adjascent to that house.
+Implement the div operator without using / or %
+Find the minimum depth of binary search tree
+Code a program to check if a given string is matching a given regular expression
+Binary trees, hash tables (and locking), cache
+Given a set of integers, print out all its subsets. Write C/C++ code to solve it.
+Are there any bugs in your code?
+Tell me about your experience?
+Given a matrix print it clockwise from the first element to the very inner element.
+basic string operations, trees, sorting
+Write binary search?
+You are trying to rob houses on a street. Each house has some +ve amount of cash. Your goal is to rob houses such that you maximize the total robbed amount. The constraint is once you rob a house you cannot rob a house adjascent to that house.
+Implement the div operator without using / or %
+Find the minimum depth of binary search tree
+Write a function to take a BST and a value k as input and have it print the kth smallest element in the BST.
+Write a function that takes a binary tree as input, and have it perform In order traversal - recursive and then iterative
+Write a function to take two arbitrarily long numbers in the form of Strings and multiply them, returning another String with the product.
+Write a function to calculate square root of a number
+Given a binary tree, write a function to find the length of the longest path in the tree.
+General questions about projects, experience, what was one of the challenges u faced in your current project, how did you over come that
+Print a binary search tree. Each level on a new line.
+reverse linked list
+... be prepared to write real code on a while board on on-line editor.
+Write the actual code to reverse a linked list
+Write the actual code to parse a regular expression including "*", which stands for 0 or more characters, "+", which stands for 1 or more characters, and ".", which stands for 1 exact character.
+print out all prime numbers in a given string. abc2134kd31 -&gt; 2, 13, 3, 3
+Given an array of integers, now we want to erase all 0's (can be other value), and we want the result array condensed, meaning no empty cell in the array.
+Find Kth smallest element in a BST.
+Implement a function
+Implement a function rotateArray(vector&lt;int&gt; arr, int r) which rotates the array by r places. Eg 1 2 3 4 5 on being rotated by 2 gives 4 5 1 2 3.
+Implement a function string balanceParanthesis(string s); which given a string s consisting of some parenthesis returns a string s1 in which parenthesis are balanced and differences between s and s1 are minimum.
+How will you design TinyUrl?
+How will you design facebook newsfeed. Focus was on a design which could handle the huge number of status updates and display them on each of the user's friend's wall.
+what can FB do to beat its competitors in my country, where it is not the most popular social network.
+Given a set of non-overlapping integer ranges (1,3) (5,8), etc., and an input integer, what is the best way to organize the data and allow for quick search based on the input, etc.
+Implement needle-in-a-haystack (string search). Make it more robust.
+Implement a queue data structure given only stacks. What is the time complexity of enqueuing and dequeuing operations?
+Print a singly-linked list backwards, in constant space and linear time.
+Convert a binary search tree to a sorted, circular, doubly-linked list, in place (using the tree nodes as the new list nodes).
+Given a set of words, group them into sets of anagrams.
+Given a string, remove all the duplicate characters (not necessarily consecutive)
+Find an algorithm to find the largest sum subarray in an array of integers. (Better than O(n^2) ).
+Write a function to tell if two line segments intersect or not.
+Write a function to prettify Json objects
+Given a list of n objects, write a function that outputs the minimum set of numbers that sum to at least K. FOLLOW UP: can you beat O(n ln n)?
+Write a function that computes log2() using sqrt().
+Given two events, each with a start and end time, implement a boolean check to see if they overlap.
+Reverse a string in-place using C.
+Some questions on graph theory and then I was asked to write a function to check if a graph was bipartite.
+Given two binary trees, return true if they have same elements (irrespective of tree structure)
+Given a string, remove all chars from the string that are present in say another string called filter.
+What have you been working on recently?
+What are the pros and cons of a linked list vs. an array?
+Given a list of strings, for each string, find if it has an anagram in the list.
+Given an array, print the largest subarray that has elements in an increasing order
+How do you find sequences of consequtive integers in a list that add to a particular number.
+Given a score S, and individual points p1,p2,...,pn. give all combinations of p that add up to s.
+Reverse a linked list.
+What do you want to work on?
+Given a set of inputs &lt;number, userid&gt; in a log file:
+You have two lightbulbs and a 100-storey building. You want to find the floor at which the bulbs will break when dropped. Find the floor using the least number of drops.
+Basic string modification question.
+How can you possibly do technical management if you're a very strong senior engineer?
+Explain the difference between a LEFT and RIGHT SQL JOIN
+In sudo-code write a program that takes an integer called N and prints out the Fibonacci sequence to the Nth digit.
+It was simple and basic stuff from computer science.
+Find a cube root of a number
+Given a sequence of numbers (34128) and an input map such as a dial pad on a phone (2-&gt;[a,b,c], 3-&gt;[d,e,f], 4-&gt;[g,h,i]) write an algorithm to return all possible words from the sequence.
+Given an array of integers, find three integers a, b and c such that a+b+c=0.
+Given a large input string, write a function to check if it is a palindrome, according to the following restrictions:
+For a binary tree, write an iterator class, which can in-order traverse the binary tree, implement two operations, next() and hasnext(). E.g., if in-order traversing a binary tree will return 2 3 4 5 6, then first call next(), it will return 2, call next() again, it will return 3, etc.
+Palindrome detection with non-alphanumeric characters
+Implement regular expression parser
+Clone a linked list with arbitrary pointers to other nodes
+Convert a binary tree to a circularly doubly linked list. head-&gt;prev = tail node. tail-&gt;next = head node. Do not use any other data structures. Must be done on the tree itself.
+Given a string with parenthesis like "()()(()(()()", check to see if there are matching pairs. If there are matching pairs, return true, else return false.
+given a string ( char* ) Write a program to Rotate its words
+Given an array of integers, push all non-zero elements to the front.
+Write a function to out put n numbers in a fibonacci sequence
+Q: Write a function that can tell if a string is a palindrome regardless of punctuation or capitalization?
+4 or 5+ questions increasing in difficulty. Only say that since I solved 4 questions in the 30 minute slot and he may have had more.
+Q1&gt; reverse a inked list and print the reversed list . Ex: 1-&gt;2-&gt;3 , result:3-&gt;2-&gt;1
+Display the sorted output of a merge of any number of sorted arrays. Then do it again, more efficiently.
+Print a binary tree by vertical level order
+How would u find out the number of cars passing through a busy bridge
+Was not expecting a simple heap search algorithm implementation.
+Standard rotated binary search question. You have a sorted array that has been shifted/cycled, perform a search on it
+Not really anything. The question was pretty easy, I think I just answered it badly.
+Nothing unexpected. Straight out of cracking the coding interview.
+Why do you choose facebook
+Techical Question: Check to see if one array is a subset of another.
+A seemingly analytical coding question which couldn't be solved at all if you didn't know a certain class.
+The puzzle was actually the most difficult. Since they expected an optimum solution and there were no guidelines at all.
+The coding challenge
+Given a matrix, calculate the sum of a sub matrix given the start and end indices of the submatrix
+How do you reverse a linked list?
+1--a
+Find if one string is "oneEditAway" from another string
+Find lowest common ancestors of a tree given nodes.
+The interview questions are very typical coding questions. Nothing unexpected
+Regex matching
+the interviewer ask me how to optimize the strstr() brute force method, and I said we can use KMP algorithm to do it, then he move on, and don't ask me to implement it.
+If you could change something about Faceboook what would it be?
+I found system design question more difficult than others as I had no experience in designing large scalable systems.
+Find Minimum in Rotated Sorted Array
+From a list of words create a list of buckets with anagrams in the same bucket
+Try to improve the intersection question by binary search, but I did not finish the coding.
+system design
+The second ninja (coding) test was about event processing system using pulling model, which literally no one in the industry is using.
+I signed an NDA so won't disclose the exact questions - but I'd practice up on tree traversals before interviewing
+I would say that the questions are not difficulty but it's also not easy to do them correctly if you see them first time.
+Signed NDA. Distributed system design problems were out of my expectation as I do not claim any experience in that area nor was I interviewing with any positions related to that area.
+I was asked the 3-sum problem. Basically, given an array of integers, find three that sum to a given value. Alternately, find all triplets that sum to the given value.
+How to deal with the conflict with colleagues
+Implementing a square root function
+4 rounds onsite interviews. Not very difficult, need bug free. 45 mins each round, 5 mins break between them. People there are smart and nice. some resume questions, 1 to 2 coding problems each round
+Trees
+Just prepare for some common behavioral questions.
+Was asked to write a function that would return all the possible words generated when using a phone numpad to type.
+Matching two strings, one is text, the other one is chars and dots and asterisks, each of which represents something. Similar to ones on CareerCup.
+Dynamic programming questions that were pretty standard yet tricky.
+Given a binary tree, print all root-to-leaf paths
+given an array of integers, find 3 integers that sum to zero
+given sorted circularly linked list how would you insert an element in it?
+1. Given 1 billion numbers, find 100 largest numbers
+Architect a cloud-based queuing service
+Problem related to binary search tree.
+There were two questions based on string manipulation.
+Reverse a Singly Linked List
+Convert a tree to a doubly linked list.
+NDA signed. But the question involved matrix calculations and required backtracking. Best solution was n!
+Data structure and algorithms
+build a large number structure with add function
+write a algorithm to calculate the running time for a sequence of tasks.
+1. Binary Tree level order traversal
+How would you design a url-shortening service?
+Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.
+Give a dictionary with a huge set of words and a string with wildcard. You are required to find whether there is a match in the dictionary for this given string.
+Background and projects
+4 rounds of interview . design , coding round .design a scalable architecture of a system.Need to cover different aspects of scalability . Coding round was difficult.
+1) Given an array with 0s and other integers. Find the fastest (that use least organizing) way to transfer all the 0s to the right end of that array.
+Multiply two big ints.
+Why Facebook
+Inorder traversal of binary tree to double linked list
+1. Tree breadth first search.
+How would you architect various things around a Twitter like company. A coding problem about finding the shortest path on an augmented chess board.
+Given a sorted array, find the emergence of given number.
+Q1A: In a maze with empty spaces and walls, given a starting point and ending point, find a path (not necessarily shortest). (Just BFS, DFS...)
+preorder traversal
+Questions
+Had no chance for such question. Only useless questions about complexity of algorithms (every developer understands when data structure A is faster than B for insert / or delete / or search).
+Some trivial question on breadth-first graph traversal.
+system design problem
+Basically an array manipulation problem
+I received two questions. The first was print out all possible strings that a phone number can produce. For instance: 2 -&gt; A,B,C and 3 -&gt; D,E,F. So if the input is 23, then the output should be "AD, AE, AF, BD, etc.."
+I didn't have enough time to research on the question but if you search around on this site and google, you should be able to cover most of the basic questions that were asked.
+String manipulation: Giving a string input, containing comments, implement a method to output the given string excluding the comments.
+There was no technical questions
+how will you design the social graph
+The difficulty is to be calm down and devote yourself to think about the questions. Don't try to recall some problems that you've resolved, it may waste your time.
+Trie data structure
+Why facebook
+If you would change something in facebook, what would it be?
+It was not especially difficult.
+Design backend system to run app like facebook where query is to get two levels of friends of friend. Open ended question..
+Leetcode: Count and say
+Print binary search tree
+Please tell me about a previous project of yours and what you would have to change in order to make it scale to millions of users.
+Design round.
+The coding questions are not that hard for both two rounds.
+One of the questions I got was around bit manipulation and built on itself by layers (i.e. how would you do x? ok, say you have a function for x, how would you do this new thing y?). The other question was a modification of a sorting question (i.e. the question itself was sort the array, but there were some parameters on the data type that made things extra fun/not…
+top k, permutation, system design
+1. Given a string, write a function to decide whether it is a palindrome.
+Print out the sum of each row in a binary tree.
+Why are you Interested in Facebook?
+What is your favorite feature of Facebook? Then as follow ups, what would you change about this feature, and what could be a drawback of this change?
+Given "data", "from", and "to" fields, replaces all occurrences of the characters in the "from" field in the "data" field, with their counterparts in the "to" field.
+Create an iterator class for a tree. The iterator should traverse the tree using in order traversal. Implement the constructor and next functions.
+Before I get to the question I just want to say that the interviewer had a very thick accent (I'm an international candidate, BTW), and that made it really difficult for me to understand what he wanted me to do. This isn't me being bitter. I'm saying this so that I present a very honest opinion about my interview.
+No NDA signed, so here's the question: Write an iterator to traverse through a binary search tree in order.
+The first one is, given a tree, each node contains a digit. Calculate the sum of all numbers formed by paths from root to leaf.
+Algorithm. Implementation. Nothing unexpected.
+The most difficult thing is system design. they asked problem which can be solved by disjoint set problem.
+reverse of a linked list
+Reverse a string in place?
+Given an SMS text (array of digits) what are the possible words that could be created?
+Given a binary search tree, write an algorithm to find the kth smallest element
+Implement a square root function using only +,-,*,/
+A very common coding problem that can be searched online
+Given a vector of Nodes, each of which contain the start and end time of a meeting, find the maximum number of rooms one would have to book for the day.
+NDA
+1.1. given a list of words, group anagrams.
+Identify if the words in a given sentence are in a built in dictionary.
+What's the applications of your research?
+How would you query for all the Places near a given coordinate? The focus is on how to scale this to a large number of places while keeping response time to within acceptable user expectacions.
+I had 4 consecutive interviews: first one was a general talk about my experience, second was to write a json beautifer, third was to design their newsfeed, and last was to write a program that prints all subsets of size k of a given set with n integers.
+Providing an algorithm for combinations(n, k), not because of it's complexity, just because it took my the majority of the interview to understand that this was the problem I was solving - it was not made very clear at all.
+print a tree level by level
+one technical question
+None were really difficult or unexpected.
+Print all permutation of a given string.
+bool regular_expression_match(char* pattern, char* string) and pattern can contain kleene star.
+They interview on your data structures and problem solving skills, nothing too hard.
+the interviewer seems quite familiar with my background and ask me some details about my current project.
+I didn't pass 1st interview even the task was simple one. I wasn't sleeping well the night before.
+NDA
+Calculate the square root.
+Given a set of n jobs with [start time, end time, cost] find a subset so that no 2 jobs overlap and the cost is maximum ?
+I supposed it would be a problem of dynamic programming or recursive, but happened to be a totally different one. Got stuck but maybe not that difficult as I thought of.
+the design questions are hard.
+Can't answer due to NDA, although it's nothing unexpected. Algorithmic problems and whiteboard coding. Try to keep whiteboard coding as eat and organized as possible, and speak out load when you're writing.
+You are given a string with each english character translated to its alphabetical position (e.g., the string "ABC" --> "123"). Provide a function that, when provided the string as an argument, will return the maximum number of strings the encoded string could represent (for example, "123" could represent "ABC", "LC", or "AW").
+Pre-IPO, they asked me to write a paper on the valuation of Facebook. They also asked me what I thought the greatest technological advancement was in the past 20 years.
+(a) first, write a function to calculate the hamming distance between two binary numbers
+What are the most challenging issues in your work?
+Some questions required remembering command line switches nearly instantly. Have man available diring the interview.
+Asked to design a system for facebook chat messaging. Difficult since I hadn't had any backend/distributed systems experience.
+Have you done any web development?
+A map-reduce question.
+My interview with a manager, he asked me a real internal problem they have and asked me to propose a solution. The question is really interesting, but I feel it's a bit hard for an outsider to give an answer that's effective and not overly complicated
+The questions are easy and common, but I was very disappointed with the second phone interviewer. The first interviewer was very nice and supportive. The first question was to return the value of a roman number given in a string. The question for the second phone interview was to print out the paths to all leaves of a binary tree.
+A lot of people asked about my experience in writing iPhone apps and what was challenging about it.
+Database design. Don't have background in CS and know little about that.
+Signed NDA, so maybe it's not OK to disclose the questions... It was standard coding questions, not those hard ones at leetcode, but you need to make sure not to make silly mistakes. Missing a few semicolons is file, though.
+I expected a tirade of technical questions. The unexpected part was that the interview was both ways: they interviewed me, I interviewed them. Most parts were more like brainstorming session than exams.
+no surprising questions
+The question was simple one related to BFS
+Getting maximum and minimun number was not difficult but getting less than n comparison was tricky.
+If you go through the career cup questions, all 3 of my questions were on there. One of them I only had 15 mins to answer (the most difficult one) due to over running.
+Expect typical software engineering coding questions on the more difficult side of the spectrum. Nothing easy like "reverse this array", but don't be afraid to ask questions during the interview and thinking out loud is encouraged.
+The sqrt() was a bit unusual for an interview question.
+system design, why they assume you know their system well and be able to come up with solutions about their system
+Due to NDA, no details. But I think the most difficult one is one about dealing with streaming files. Not like normal algorithm questions, but many corner cases.
+Levenshtein Distance, Sum of 1's in a submatrix, Print all paths of a binary tree, Palindrome
+Many of the questions exploited data structures for fast running time. Also I'd practice designing features.
+Not too much
+signed NDA so cannot discuss. But do prepare for sorting, pattern matching algorithms, design problems such as how to go about implementing certain features in Facebook, and review previous work experience for some stuff to talk about in depth during behavioral interview.
+No question stood out as most difficult or unexpected. Just know your algorithms and data structures, as well as your specific domain knowledge.
+Why do you want to come to Facebook?
+All standard algorithm/data structure questions. Nothing about brain twists or programming language or computer/network related knowledges.
+Nothing unexpected, I solved all the problems but I think I was too slow on the first one, which goes like:
+Nothing stood out as particularly difficult or unexpected.
+I think the most difficult part were not the coding question itself but that they were the kind of questions where you have to be recall a lot from basic computer science classes. Things you tend to forget if you have already been working for a couple of years. But then again, that was not necessarily unexpected.
+How would you implement division without +, - or multiplication
+Nothing really particularly difficult.
+NDA got my hands tied.
+Questions about recursion, css positioning, what would you like to do at Facebook, and closures.
+Overall Facebook's interview questions are interesting and not hard. All the interviewers are knowledgable and nice to talk to.
+A bunch of pointer arithmetic and bit flipping questions, in the same interview as some dynamic programming problems
+1. merge two sorted arrays together
+I had never heard of any questions that I was asked (in all the 4 rounds of interviews). So pretty much all the problem required me to think on the fly.
+1- Try to solve interview question as much as you can.
+questions are standard with minor tricks hidden. i'm not a CS major so my coding was not the most efficient, and clean coding is a crucial criteria they're looking for.
+Nothing unexpected. Keep Reading, studying, solving problems, and coding on your daily job and you should be able to get it.
+Gray code, it was lack of time on a cultural interview. I think something like 15 minutes or so it was quite challenging.
+No unexpected questions
+Palindromes possible from a string without extra space
+Given a scrabble board with scores and a series of random letters drawn, find a way to maximize the point value for a valid word and play it on the board if there is space and fits with the other words
+Design a web site sharing application, from the base at the phone level to the status of everything in the cloud.
+I was only asked two questions, one was to implement strstr() and the other was to write a function to check if a binary tree was valid
+General algorithm questions on the more difficult side.
+Questions about data structures, graphs, and tree traversal.
+Dynamic programming, greedy algorithms. They really mean it when they say efficient algorithms!
+1. Modified permutation
+There was a questions regarding string manipulation and checking it was challenging because it was a difficult question to understand at first.
+What would be the most interesting job description ?
+I am not allowed to share questions here (signed NDA)
+All the coding question can be found in programming interviews exposed books and websites, they are language agnostic, which is nice.
+There weren't too hard questions
+find 3 elements in an array that sum to 0.
+A lot of array questions! Also dynamic programming!
+Many of the interviews focus on coding exercises. It can be very hard to write code on a whiteboard with someone watching you. People are right about it being a good idea to practice writing on a whiteboard on your own first.
+None of the questions were difficult, or unexpected. Most of them appear on this site.
+The initial question (writing a function to calculate a square root) ended up being the most difficult because it threw me off. I knew there was a good iterative method for doing so, but could not recall Newton's method in the moment, and I sadly let this nagging thought get in the way of my ability to work through the problem. My failure to perform well on that question set…
+Coding tests were the hardest part for me since I have been out of school for a long time now :) Prepare for questions related to trees, graphs, strings, dynamic programming and practice writing code on paper.
+Write a function that finds the square root of a decimal number.
+Easy questions. It is not up to standard of other companies like google microsoft, amazon, vmware, foursquare, tumblr.
+Design a Facebook travel app.
+Check if two strings are Palindrome
+No unexpected questions.
+I was applying for backend service engineer, but got a client side design question during interview.
+I cannot disclose it due to the confidential policy.
+Given an array of distinct integers, and a target integer t, compute all of the subsets of the array that sum to t, where order matters. (I was given ~20 minutes to solve this)
+Algorithmic puzzles, dynamic programming
+Smallest missing natural number in a linked list in linear time without a hash table.
+Except of technical-related questions you can expect such ones like - how do you use Facebook app and what are the problems with it? How would you fix it?
+How would you build our photo gallery?
+The design interview process was a little difficult. I kept saying my thoughts. However, the interviewer was silent most of the time. I didn't get much hint on which directions to go.
+Why do you think you're best for the job?
+Add two binary numbers represents in strings, those could be large values.
+Implement a simple regex parser.
+Write a palindrome-checking function
+I was asked to mathematically prove the big-O bounds of an algorithm. I was a little rusty with my math, but my interviewer helped me and I got it.
+I'm not allowed to reveal question due to an NDA.
+"Reverse" of the problem if finding k-th smallest element in a tree: I had to find k-th largest.
+Worked through a few coding questions using a shared document, getting progressively more complicated and then went through a sort of thought exercise regarding the limits of the proposed solution in terms of constraints like bandwidth, CPU speed, memory and how performance could be improved without re-writing the basic algorithm.
+Most challenging question was an exercise in designing a system to do spam detection work and describing it in a huge flowchart, as might be done in an early but detailed product planning session. Be prepared to think on large scales.
+How to implement multiple inheritance in Java
+Given set of coins and each coin has its unique probability to be head up, say double[] probs stores the probability values for all coins, print out all different cases and accordingly probability.
+How to implement Sqrt(double k) efficiently?
+Write a function to check if polygon is simple based on given list of points.
+Question selected from the ones already provided. Revise your data structures and their implementation in your language of choice.
+You are given an integer N and an integer M. You are supposed to write a method void findBestCoinsThatMinimizeAverage(int N, int M) that prints the best collection of N coins that minimize the average number of minimum coins needed to generate values from 1 to M. So, if M = 100, and N = 4, then if we use the set {1, 5, 10, 25} to generate each value from…
+Coding Test was Javascript without the use of libraries.
+calculate x^1/2
+Implement the "see and tell" algorithm with a given seed number x and a number of iterations y. Output the result on iteration y
+String parsing
+None of the Qs were unexpected.
+String manipulation, Trees, Lists, sort, basic linear algebra...
+Traverse a binary tree one level at a time.
+Add up two big integers represented in arrays.
+Design a system to support Facebook status update.
+Design the recommendation system for search keywords
+Reverse a linked list (warm up question).
+implement dir *
+Game update
+same fringe problem for non binary trees.
+My technical background.
+Given an array of positive integers and a target integer, find if there is a consecutive subarray that sums to the target. E.g, given {5,6,4,12}, findsum(10)=true, findsum(11)=false.
+Given an array a contains all digits 0-9
+Add two binary numbers (Input as a string)
+Nothing difficult for someone who would be clear on data structures I guess.
+What is something other people misunderstand about you?
+System Design (can't give details due to NDA)
+Algorithmic questions
+Cultural fit
+serialize and serialize a BST
+An interesting exhaustive phone number pad permutations question. Eg, if you touch one number on a keypad and then drag it around the keypad (horizontal and vertical movements only, no repeats), enumerate all the possible words you could create. These sorts of questions are common.
+Implement an LRU cache. Make it thread safe.
+Technical round , I was asked to code in Java ( select the best language you have expertise)
+Just have your basic algorithm and data structure skills well versed
+Big number multiplication
+The interview questions were not extremely difficult, but I can tell they want people who understand the most basic concepts really well and can code clean and bug-free at once or after a little bit hints. The design questions were challenging though. Be prepared for that.
+The interview was pretty straightforward. The technical question had something to do with rearranging letters in a word, can't remember the details anymore.
+Asked to do a presentation on a specific topic for the entire team.
+Tell me about the N-1 problem with ORMs.
+something related to my resume. like how this project works
+Nothing terribly surprising - be prepared to talk through CS fundamentals, large scale design, and code code code.
+Regular expression and strStr. I was not able to give KMP algorithm to strStr
+2SUM problem and how to optimize it.
+On site interview, they ask me regular expression match (check leetcode) and search for range (like, 1,2 3, 7,7,7, 9, 9, return how many 7's in the array) and also knowledge about the garbage collection, linked list, reverse linked list.
+Why do you want to work at facebook? (I didn't really... :))
+A recursive problem involving how many combinations you can make out of a set of numbers. Know your data structures, the problem used both hash tables and lists.
+I don't recall, was a while ago.
+How do you find the kth smallest number in a binary search tree.
+Regex matching function
+You might be asked on how much you expect for compensation (by the recruiter). The coding question was alright. It was to compare two general trees and making sure they have the same elements.
+Given an encoded message containing digits, determine the total number of ways to decode it.
+Question is verbose, uses search engine, string matching etc., but at the end boils down to this: There is two dimensional array where each sub array (row) is sorted, i.e.
+The questions were pretty simple.
+Not that difficult but was asked to compute the number of ways to make change for 100 dollars when an arbitrary coin from the set (5c, 10c, 25c) has to be the smallest amount of change given.
+As for the interview itself, I was asked several general questions about my projects (nothing too special, really). The coding question is a standard regular expression matching one which you can find on LeetCode. Since I'm still doing my Master program, I haven't yet reached that far on LeetCode. I did solve the question in the end after the interviewer gave me some hint...But I don't think I did a…
+Most difficult questions were around systems design since the question was extremely broad, in which I was supposed to write/draw on a white board for 30-45 minutes explaining what the concept was about. Another unexpected question involved the trie data structure, it wasn't too hard, but I've never heard of it.
+What projects did you work on?
+Give a set of objects and a function. Pass two objects to that function and it can tell you whether one object points to another one. Find one object that is pointed by all other objects.
+How would you multiply two strings: "123 * "45", without any casting.
+Given a string 12345 and a alphabet to number mapping like a =1, b =2.., y=25, z=26 write a code to find number of possible alphabet strings from the given string.
+Design a real-time type-ahead search-phrase predictor which presents the top-10 ranked search strings that begin with a given prefix.
+Q. Balance a String of unbalanced Parenthesis ?
+You have a string that consists of all types of characters, alphanumeric, special, uppercase and lowercase. The string should still tell me that it is a palindrome or not. For example: 12@#.Race@#car. The example is a palindrome. (Omit the special characters, and do not consider the string to be case sensitive). I wrote the code in O(n), but I was using an extra string to store only the letters. The…
+Given a buffer-like interface from which you can only read data in chunks of a fixed size, implement a reader which can read as many bytes as it wants from this interface.
+binary trees, linked list
+find a needle in a haystack given two strings
+given an array of ints, find three that sum to zero
+Given a social network where users can subscribe to one another,
+If A = 1, B = 2, etc., Z = 26, output all the possible combinations of a string of numbers (ie. 123 could be "abc" or "ic" or "ap"
+For an array of non-negative integer numbers, and a target number, determine whether there's a subarray whose sum equals to target number
+Around the medium level algorithm questions. The only one I remember is to print all paths from root to leaf of a tree, using both recursive and iterative methods. 2 question for 1st round and 3 questions for 2nd round.
+1 system design question, 1 manager interview ("Tell me about a time..."), 2 algorithms questions.
+Leetcode is more than enough for the coding. Take more time on database design.
+chess board traversal
+Data-structures, sorting, Big-O notation, large system design.
+Various programming questions
+Signed an NDA but just check the resources given to you by the recruiter
+3-sum problem, link lists
+Fibonacci Sequence
+Read number, e.g. 100 -&gt; one hundred, 113 -&gt; one hundred thirteen
+Can't disclose due to NDA. But as mentioned above, the coding questions are really straightforward and of merely average difficulty. It's the system design ("Pirate") questions that can be really, really challenging. Definitely spend a good portion of your time preparing for the latter!
+I can't discuss specifics due to NDA, but interview questions were neither overly difficult nor tricky. Check careercup and brush up on algorithms (string processing, binary trees, graphs, etc.). Practice coding fast (which potentially means forgetting good software engineering practices such as class design, refactoring as it will only slow you down).
+Longest common subsequence
+Why Facebook?
+NDA
+My current project and how I scale our applications.
+I forgot some of the coding problems, but here are what I can remember.
+I cannot go in specifics because of the NDA, but they are standard coding questions, which you can find on Leetcode or coding interview prep books.
+A museum was represented by a square matrix that was filled with O, G, and W where O represented open space G represented guards, and W represented walls. Write a function that accepts the square matrix and returns another square matrix where all of the O's in the matrix are replaced with the number of how many spaces they are away from a guard, without being able to go through…
+The two technical question stressed algorithms. The informational interview was mainly about any project I had worked on and wanted to discuss.
+What is something you've built that you're proud of?
+hash table, binary tree, sorting
+k largest elements
+1. combine two sorted lists, ask time complexity
+If you have an array of hundreds of strings, how would you eliminate all anagrams (strings with the same characters in a different order).
+Arrays search, bit manipulation, permutations
+How much time you are coding?
+Write a program to import/export CSV file
+Simple graph question
+* Design search suggestion feature.
+Easy String and array based questions
+reverse a linked list, Big O time, etc
+Basic data structure and algorithms. They might expect you have a perfect answer in every round of interviews.
+Design the Google search bar that prompts you with suggestions as you type in it. These suggestions are not personalized but based on most popular queries in the past by all Google users. e.g. as you type "Fac" in the search bar the drop down prompts you with "Facebook" or "Facts about Great Britain" and so on based on recent most popular queries. Once designed, optimize this based on feedback…
+NDA
+I signed a NDA.
+Basic algorithm questions, no hard or surprising one. For example, merge two ordered list.
+Asked for the project you did, and details about the one you think you learned the most.
+The recruiter will send a link to websites that is meant to help you in preparation. If you spend enough time practicing those questions you can get through. Spend enough time writing code. The questions are not hard.
+Candidates are required to sign an NDA preventing disclosure of questions.
+They make you sign an NDA on the way in. But it was a very basic Graph Theory problem disguised in a way that didn't initially look like a Graph Theory problem. Basic Depth First Search, ultimately.
+how to find least common parent pointer of two nodes in a binary tree.
+Why do you want to work for Facebook
+Given an n*n matrix filled randomly with different colors (no limit on what the colors are), add up the total number of groups of each color - a group is adjacent cells of the same color touching each other.
+- General career goal conversation, kinds of coworkers you like to work with, mentoring questions
+Given a set of random strings, write a function that returns a set that groups all the anagrams together. Ex: star, dog, car, rats, arc -> (star, rats), (arc, car), dog
+Basic algorithmic question. Improve time and space complexity.
+One challenge that I met before.
+implement a function to find if a given string is a palindrome.
+To optimal the second function
+Similar with Permutation & Trie combination questions
+Basic data structure based coding problem. Had to solve the problem and discuss runtime and optimizations using another data structure.
+On leetcode
+asked two coding questions.
+Given a path in Unix file system, simplify it.
+CVS encoding and decoding
+1. Asked me how to reverse a Linked List. Recursive Solution, Non-Recursive Solution, edge cases.
+Tree; Binary Search; Dynamic Programming; Hash Table
+They just asked me about my resume project and also a few data structures questions.
+Implement Queue
+Given a huge file about several terabytes. File contains different words. You should remove duplicate from file.
+Two algorithm problems. Write code on a online editor. The problems can be found on LeetCode. One of the problem is the easy level, and the second is medium level.
+Remove duplicates from array
+I used leetcode and hackerrank for preparation, but some interview questions were new for me. 3SUM, Intervals intersection, palindrome, BST to linked list conversion.
+what's hackerthons have you been to
+Tell me a situation where you had a difference of opinion about a project and how did you resolve it?
+Find all subsets of a set.
+System Design (popular FB feature)
+How would you implement closest ancestor in a tree?
+Write a function to find how many valid letters are in a string of digits give the mapping:
+Add two integers provided as two arrays.
+Tell me about yourself, why facebook etc etc...
+Signed NPA, cannot tell the specific question. They are just coding questions in terms of basic data structure (hash, heap, list), DP, Greedy
+describe a project you have been working on
+Given an array of numbers, return the duplicate
+Print the largest non-duplicate substring in the given string
+Do you know any communication protocol. Describe what's a static variable in C++
+Q: Given an array of ints, print out true if 3 of them add up to 9
+Write an LRU cache
+print the binary tree by level in different lines.
+-What is a BST?
+Phone screen: Given a list of numbers and a function that returns Low, Medium, or High, sort the list by Lows, then Mediums, then Highs.
+String related problem
+Find all combinations of three numbers in an array that add up to zero.
+Given a binary tree, print the average of each level.
+Given an array of strings, return an array of arrays of anagrams.
+find the common ancestor of all the deepest nodes of a tree (tree could be any tree, number of deepest nodes could be any number more than or equal to 1)
+NDA signed
+Given a 2-d matrix with each cell contains a character from the alphabet. Given a word, verify if the exist in this matrix. A word is called to exist in a matrix if there is a path from cells to cells in the matrix and this path creates a word that matches the word we're looking for. a cell could move to all vertex-adjacent cells (so there are 8 adjacent…
+Add two big numbers.
+How would you quickly find the kth smallest number in an unsorted array?
+1. check whether a string is palindrome
+whiteboard coding.
+Given two sorted input arrays which contain a two element array of [key, value], write a function which multiplies the two arrays together and sums them where the "key" matches. Example: "v1 = [[1, 3], [2, 4], [99, 3]]; v2 = [[2,3],[5,9],[99,1]]" results in "15". I first brute forced it with O(n*m) then used two pointers which resulted in O(n+m) then he asked me to write it in O(n log…
+1. Design a web crawler with fixed set of resources. (design)
+Give the count and the number following in the series.
+1, give 2 time obj, compare which time is earlier
+Why feature do you want to add for Facebook?
+System design and coding on whiteboard
+Difference between a file and an inode?
+Find the shortest subtree that consist of all the deepest nodes. The tree is not binary.
+Design an API for news feed
+Given two BST, return true if they have same variable, flase if not.
+Given an unsorted string, determine if it can be presented as a palindrome. 'MMO'-True, 'DOOR'-False
+Behavior: past project and what's the funest thing in it.
+Something involving sorting.
+The question was related to recursion and binary search.
+Given a list of integers, return true if there's a sequence of numbers within the list that adds up to an input k.
+Given a binary tree, write a function that prints all of the paths from the root node to the leaf nodes. What is the functions run time and space requirement.
+Given a linked list, where each node's value can itself be a linked list (a recursive linked list), write a function that flattens it.
+Verify a binary search tree.
+You are given a bunch of dominoes. Write a function that determines if any two of those dominoes add up to [6, 6] (e.g. [1,4] + [5, 2]).
+Mostly the original problems from the leetcode.
+If you have two numbers written as strings, how would you add them as numbers?
+Pretty standard tech interview questions. Algorithms about hash tables, string manipulation.
+how to print out the tree from the outside to inside
+NDA
+Given array of integers, return the length of the longest increasing subarray.
+Basic C++ questions.
+Given an array that is mostly sorted, find an entry in the array. E.g. [5,6,1,2,3], or [100,101,5,8,12] are valid input.
+Regular expression without grouping
+Tree traversal, pushing elements to end of array.
+Write a function that inputs an array that represents a number (e.g. 19 as [1,9]) and add 1 to that number than outputs it in the same format (e.g. [2,0]).
+All questions are on leetcode
+String compression:
+NDA
+Create a linked list with 3 char (A,B,C) in it and print the list in reverse.
+phone digit -> letter combinations
+merge k sorted arrays (think about data structures you can use)
+The questions are mostly about designing data structure and sorting algorithm.
+implement read(int size) function with read4() function
+What is your life goal
+Scanning B-tree
+Trees, dp
+Find the connected components in a graph.
+what is the most challenging part while working on your project?
+given a matrix, print out the diagonals
+design: design Instagram
+behavioural: what kind of teammates you don't like
+behavioural: tell me about the most interesting project.
+coding: given a dictionary and 2 words. find the shortest path between 2 words by modifying only one character at a time and using only words in the dictionary.
+coding: print the given binary tree in column order
+Signed NDA. Can not reveal questions.
+Return the sum of node values at each level of binary tree
+having a fuction that return chunks of 1024 Mb create a function that fetch any number of Mb, this function must call the fetch 1024 function one or more times to get all the chunks necesary
+create a function that receives a string and verify if it is palindrom, you should filter spaces and special chars
+PI - 1:
+Leetcode Hard.
+A message containing letters from A-Z is being encoded to numbers using the following mapping:
+Given an array of integers, return true if there are contiguous numbers such that they add up to a specific target.
+Leetcode 1) Profit-Loss (1 buy sell) 2) Profit-Loss (unlimited buy sell with transaction fee)
+Leetcode : Decode ways (a=1, b=2 .. z=26), decode '1123' ...
+Phonescreen : Leetcode 3sum
+Remove unbalanced parenthesis from a string. Give Runtime, space.
+Given an array, move all zeroes to the right.
+Given a list of persons and a function knows(I,j) which returns true if person I knows person j, find a celebrity person defined as: person doesn't know anybody else and everybody else knows him.
+How can you get the longest path in a tree regardless the directions?
+Do an in-place (without allocating any extra memory) rearrangement of a list of integers, putting non-zero elements first.
+Do you have any questions for us?
+A dynamic programming problem. Core algorithm is not very difficult but the input are extremely annoying, which are designed to cause problems in my opinion.
+Write a C function to merge two sorted linked lists
+NDA
+I need an algorithm that given a number combination returns me the alphabet(s) denoting that number.
+Design a news feed app(both server and client side).
+Print all permutations of a given string.
+Given a 2D array of characters ('-' , 'X' , 'R' , 'T'), find out whether there is a path from the robot 'R' to the target 'T'. The robot can move up, down, left or right. Cells marked with 'X' are blocked and cannot be passed through.
+Leetcode questions, same ones which people already mentioned in other glassdoor reviews
+Non technical: Why facebook?
+Balance a string with parentheses. "a(b)" -> "a(b)"; "(((((" -> ""; "(()())" -> "(()())"; ")ab(()" -> "ab()"; etc...
+tell me about yourself
+Asked about my background, why I was looking, etc.
+Create an addition function for two string integers.
+Unable to disclose due to signing NDA
+A coding question about how to select a user's potential friend.
+solve leetcode easy? solve leetcode hard?
+NDA
+given a set of intervals, find the maximum overlap number
+Given a binary tree containing integer data and an integer S, find a path from root to node who's data values add up to S.
+Given a binary tree containing integer data and an integer S, find all paths from root to node who's data values add up to S.
+Data structure/algo based question
+Why Facebook?
+Coding
+Algorithms, probably on a easy/medium scale.
+Past Experience. Typical behavioral questions.
+Level order traversal to find top 2 maximum elements
+Create a random number generator from that will generate a random number from a list of numbers, with the probability proportional to the magnitude of the number.
+Merge an interval to list of intervals.
+Move zeroes in an array.
+Task scheduling with cool off period (Leetcode). A modification to this too.
+Search a grid and find paths of certain lengths.
+A problem related to binary search
+Medium-to-hard Leetcode questions
+Move zeros , Arrays, first bad verison
+The interviewer asked questions about algorithms (particularly about sorting). I was asked to implement a method to merge multiple sorted arrays while maintaining their ordering.
+You have a list of numbers. You could add "+" "-" and space to calculate the number in the list to get a target sum.
+Given two sorted lists and return a list of their intersection with no duplicates with O(1) space and O(n) run time
+NDA | Review data structures and algorithms
+Determine if a sequence of numbers is monotonic
+code up made up data structure and optimize
+leetcode medium string parsing question during latter half of behavioral
+leetcode hard question
+Reach land with the fewest steps in a 2D land and water array.
+Find the greatest integer less than n, such that it contains all of the digits in n. (i.e. n = 654, output would be 645)
+Copy Random List.
+Kth Largest Element in an Array (LeetCode)
+Find the Celebrity (LeetCode)
+Given a binary tree, give the length of the longest path between two leaf nodes
+The question was regarding API
+NDA, use leetcode and Cracking the Coding Interview and you will be fine
+dp
+Word Break and Move Zeroes
+Longest Word in Dictionary through Deleting
+Array manipulation and dynamic programming.
+Move Zeroes Problem from Leetcode.
+Why is facebook recruiting so bad?
+calculate average value of each level of BT
+Some technical questions and the last onsite round is a behavior one.
+depth-first search in a matrix.
+generate strings for a phone number.
+implement binary search
+leetcode regex question.
+How would you store a sparse vector (meaning it has mostly zeroes). How would calculate the dot product of those two vectors?
+1. Given a a set of points (x1,y1,), (x2,y2),...(xn, yn), find a set of tuples which satisfy xi+xj=k and yi+yj=k in O(n) time.
+Write a function to detect if an array is monotonic?
+Write a data structure for a collection with the following functions: Add(T), Remove(T), GetRandom().
+What was a time you disagreed with your team members?
+Given postorder and inorder traversals, construct a binary tree.
+Data structure question about binary trees
+Given two sorted arrays, find intersection.
+Given binary tree, flatten it to a linked list (move all the references to node.right)
+Merge two sorted arrays in place
+Open ended: what do you know about Memory Management in Objective C?
+Solve a Recursive function
+What projects have you been working on lately.
+What languages are you using to code
+What percentage of your time is spent coding
+I was asked a series of technical questions (balancing parens, etc)
+Those listed in the description
+adding binary strings
+It's mainly coding interview.
+a linked list manipulation question
+a binary tree question
+Basic question was about how to flatten out a tree into a linked list and then some other permutations of that.
+Make a palindrome algorithm? Tell it's complexity etc.
+Something about graph connectivity (it was a while ago so I don't remember too well)
+Code up the solution to solving a simple board game
+what is agile?
+why do you want to work for facebook, explain your prev. experiences ; what would you like to do here ?
+Given k sorted lists. Write a program to merge them.
+A string represents an equation such as x + 4 = 8 - x, solve the x
+NDA
+Given a tree, find the the sum of tree.
+Fairly standard leetcode questions
+General questions on DP in both of the interviews.
+The question is very straightforward, return connected groups in the graph. But you need to figure out what input type you should take in
+Typical stuff
+The interview question is the "decoding ways" in Leetcode. That is suppose we have a decoding role: 1-A, 2-B,....26-z; then return how many decoded sequences we can obtain for a given string of digits.
+3 Sum
+How would you compute the Nth Fibonacci number in logN time?
+A question on reading files, 4kb each, for a larger fiile
+Write a function to determine if a sentence (ignoring punctuation/whitespace) is a palindrome.
+given two integers in string binary form, add them together
+given k n length sorted arrays, iterate through them in order.
+What makes you special enough to work here?
+Leetcode level hard/medium
+How to space-efficiently store a binary tree in an array, and then how to extract the binary tree from its array representation.
+Describe how you handled a disagreement at a past job.
+1 coding question regarding binary trees- check if its a binary tree
+Q: Given a list of chars, return the 2nd most frequently occurring char.
+Q: Print a binary tree by column.
+Given a list of commits and a function to evaluate if a commit broke the build, find the first one that broke the build.
+Signed NDA
+Most coding problems are about algorithm
+Standard DSA questions, personal interests, why Facebook
+use bit operations to write a function that will determine if a number is a power of 2
+[2,3] add one to the array and return back the array so the answer would be [2,4]
+machine learning
+check if the tree is a complete binary tree.
+binary search
+Mainly typical "LeetCode" type questions. Almost all were very much technically minded.
+Recursion question
+Pretty typical questions on combinatorics, BST's, binary search with follow-up.
+Come up with the minimum number of rooms to accommodate given meetings (data given in intervals)
+Practice questions on leetcode. They pay a lot of attention to coming up with optimal answers. I had questions on data structures, algorithms and dynamic programming.
+Serialize and deserialize BST.
+Write a function that parses a string containing sum and multiplication operations and returns the result
+Serialize and deserialize a tree
+You are given a list of integers. Build a map with the elements of the list as keys and the frequency they appear as values.
+binary search
+Some basic BFS, DFS and Two pointer problem
+NDA
+Find the indices of max. value in a large array and return them.
+The questions were simple and ranged from string manipulations to BST.
+NDA
+The first question is two find the largest and second largest value at each level of a binary tree. You don't need to return all values, just print out instead. the second question is to return a value in an array with the probability proportional to the weight of the value within the array. For example, in an array [4,5,6], return 4 with probability 4/15, 5 with 5/15 and 6…
+Print out a graph in column order, starting from left to right.
+Implement a queue using a circular buffer.
+Write a function that takes an integer and prints out the English text of it. ex. Input: 1432; Output: 'One thousand, four hundred thirty-two'
+In place quick sort
+longest increasing subarray
+write a function to check the validity of a binary search tree
+Medium leetcode questions
+They asked me to do a recursive function of a powerset (Ex. powerset(a,b,c) = ((),(a),(b),(c),(a,b),(a,c),(b,c))
+Implement an circular queue with basic queue attribute for the phone interview.
+Given a list of sorted integers, and a target sum, return True if there is a consecutive set of numbers that add to the target sum.
+In a BST find the next element of given element
+One interview about your resume and projects
+Finding the minimum k elements of a list
+Round 1:
+Round 2:
+Round 3:
+Given an array of commits, return the first bad commit?
+why I want to work in Facebook?
+Least Common Ancestor of a binary tree, then a binary search tree.
+At your last project/job, what would you say is a major weakness of yours?
+Given two words and a dictionary, print the path from one word to the next changing one letter at a time
+for encoding that {a,b,c,...,z}<->{1,2,3,...,26}
+Why Facebook?
+Questions around BinaryTree and BinaryServiceTrees
+Easy programming questions and possible improvements, and follow up on time and space complexity.
+You are given a list of strings (e.g. ["cat", "dog", "hat", "apple", "c"] ). Write a program that would take as input a string containing a wild card character, like "*at", "**t" (could be "cat", "hat", "bat"), "ca*", etc. and return true if there is a corresponding string in the list, and false otherwise.
+Leetcode questions easy, medium level for the phone interview, questions are exactly the same as the leetcode ones.
+Typical tree, sorting and string questions.
+Questions on LinkedList and trees. For linkedlist related to handling multiple lists while on tree, it was on balancing them.
+Non-disclosure agreement and I respect it.
+NDA
+There were some simple questions on array sorting, integer to string parsing, and a question on merging intervals that I got in another interview with another firm.
+Implement most efficient structure to store multiple strings
+tree question
+Algorithm interview. similar to leetcode
+Onsite: sliding window max
+Given many points, find k points that are closest to the origin.
+/*
+I won't answer this because it's covered by NDA and it wouldn't do you any good. I will say that most of the questions are thought provoking and have no one right answer. Facebook's recruiters will give you lots of excellent advice for preparation — their goal is to find good people, not trip people up on dumb stuff.
+Tell me about a time you had a disagreement with your manager.
+Can't disclose because of NDA. You can find everything on Leetcode.
+really easy questions. Nailed them all.
+hashmap question
+Clone a linked list with next and random pointer
+Generate square of array elements
+Why would you want to work for Facebook
+Permutation subsets
+I'm under NDA, but this is not very different from any other tech interview
+reverse linkedlist, word ladder, wildcard matching
+Not to expose the interview question according to assignment. Review algorithm and data structure if you don't know what to do.
+leetcode move zeros
+Basic data structure, Leetcode questions, one median, one hard.
+Know common data structures and algorithms. LeetCode is extremely helpful. Also have an answer to Why Facebook? and variations of that question.
+find all the combination of a specific sum in a array.
+what project do you want to work on
+Given a graph find all connected components. Given some email ids, and a similarity function which says whether two email ids are similar, determine all the sets of email ids that are similar to each other.
+Is pass by reference faster than pass by value? given a linked list, where each node had a digit of the number, increase the number by 1.
+basic data structure and algorithm questions.
+leetcode regex isMatch() recursive
+Got an online whiteboard interview while talking to an engineer on the phone. The engineer introduced himself in the beginning and made sure that I understood the question. He also pointed out some mistakes that I made.
+4 interviews: 1 behavior, 2 coding and 1 design. can't say more because of NDA.
+5 Multiple Choice Android Development/API questions.
+Simple Algorithms and Data structures
+Balanced parenthesis (stacks)
+If your are given an Integer Singly linked list. Print it backwards.
+Two Question for first round.
+Wildcard problem
+Past projects
+tree, bit manipulation, palindrome and map
+print the LinkedList reversely
+You are given a large set of github commits. Write code to find the first instance of a github commit error given the function that can check for github errors is provided.
+Ensure that there are a minimum of n dashes between any two of the same characters of a string.
+1) Given a list of (x, y) coordinates, return k nearest points to (0, 0)
+1) Regular expression validator using DP and recursive solution
+LEETCODE PREMIUM
+calculate the dot product of two sparse vectors
+rotate a matrix 90 degrees clockwise
+print tree
+WHY YOU LIKE FACEBOOK
+Validate BST
+A variation of LCA problem
+Variation on a LeetCode hard question.
+Binary tree serialization and deserialization
+They asked a couple of questions at first. One general coding question and another one specific to Facebook.
+What was your favorite project experience and why?
+Make a function that creates the previous permutation for a given number O(n) time
+Easy leetcode/CTCI questions
+store binary tree into a list, restore the the tree based on the list you generated from
+It was a mathematical questions about finding the greatest number (but less than the given number) by reordering the digits in the number.
+Most demanding thing you did
+Given the alphabet encoded as numbers (e.g., a=1, b=2, ..., z=26), and a sequence of numbers (e.g., "23413259802"), how many strings can be generated.
+Cannot tell you the question cos of NDA.
+Given the alphabet encoded as numbers (e.g., a=1, b=2, ..., z=26), and a sequence of numbers (e.g., "23413259802"), how many strings can be generated.
+Given Binary Tree is Binary Search tree or not.
+Kth Largest Element in an Array
+Decode Ways
+What programming languages are you comfortable with
+Design and write code for a queue system which would include enqueue, dequeue, etc.
+Variation of standard algorithm question. Corrected code on being given edge case. Took 25 minutes to get satisfactory answer - probably too long for the interviewer.
+Second question was a dynamic program question - I knew how to find the solution but hadn't even thought of the algorithm for several years. Was unable to complete the solution in the remaining 20 minutes.
+Parse a string containing numbers and "+", "-" and parentheses. Evaluate the expression.
+First interview:
+Implement iterator that increments over K sorted arrays in increasing order.
+Number pad combinations problem.
+Sliding Window Maximum.
+Write code to match a regular expression to a string.
+NDA
+Signed NDA, but the questions were of average difficulty.
+Past Experience
+Medium level leetcode I would say
+Describe your project/patent that you have done when interning at X company?
+Tell me about yourself. Write code to check if a BST is valid or not.
+Why Facebook
+Design Waze app.
+Design a LRU cache.
+subset problem, divide integer
+Given an array of integers find a contiguous subset that sums to a given number
+Background info (about myself, my interests).
+can't disclose as I signed NDA
+What do you do at your current company?
+Given a list of denominations (e.g., [ 1, 2, 5 ] means you have coins worth $1, $2, and $5) and a number k, find all possible combinations, if any, of coins in the given denominations that add up to k, including repeats.
+Search for an item in a sorted, but rotated, array.
+Max occurrence letter in a string. [Kept on adding constraints like ignore spaces, special characters, case insensitive..] Later asked about space and time complexities
+Given a target, find a two number in an array that sums up to the target number.
+usual data structures and algorithms questions
+1. You have a string consisting of open and closed parentheses, but parentheses may be imbalanced.
+1. Given a version control system, and there are n versions, find the version which got corrupted. So when a version gets corrupted, all the next versions are bad versions. The task was to find the first bad version.
+2. Regular expression matching. Where '.' represents any character and '*' represents zero or more instances of the previous character.
+Three architectures questions. Simple but seems they have the problem at work, stole interviee's idea?
+Coding questions not to testing skill more than asking people to leave.
+Two technical questions, one easy, one harder.
+The interview called up 30 minutes late and rushed thru.
+After 3 weeks I got call for another interview.
+Got a call saying they need to take another interview, was nearly about to say thanks but no thanks but ended up taking it just for practice.
+Typical introduce your self
+Balance parenthesis type problem
+1. Binary Tree Traversals
+Design a system to recommend "People you may know" to every person using the service.
+Sort array and find similar elements with specific pattern
+Tell about a recent project and then a medium level Data Structure question.
+Checking certain patterns of the given string.
+3 sum question.
+Given a multi-dimensional array representing a board, how would you traverse from one point to another. The board has 1's and 0's, you can only traverse through the 0's.
+How do you resolve conflict in team work?
+3sum, add large floating point numbers, closed/longest palindrome string, balance bracket
+NDA
+Had to code up two functions in python. The functions were based around traversing a graph and identifying total number of nodes and shortest path within a maximum length.
+Sparse Vector
+Given an array of integers, find the subarray with the largest sum.
+Leetcode 349 and 124
+NDA
+Given a binary tree, find the longest path length in the tree.
+Walk me through your resume?
+Asked leetcode hard Question.
+Iterative in-order traversal
+NDA
+check if given sentence is a palindrome( excluding characters other than lower/upper case alphabets)
+2D array with 0 and 1, find islands.
+Finding inversions of an array.
+longest consecutive sorted sequence
+Ask to solve a leetcode hard-level problem
+intersection of 2 arrays
+Moving average
+infinite chessboard knight pawns destination
+I'm a CS new Grad. The interviewer asked about my experiences and projects and a programming question. Tell me which project you are most proud of. Why you want to work in Facebook?
+How would you design the backend for instagram?
+They asked me to balance parentheses in a string and to constantly lower the time-space complexity for it.
+Given an array of size n, find k consecutive elements that has the sum n
+Questions were pretty simple
+Given a nxn matrix of numbers 1-4 (drawn on the board), write an algorithm that will return the identifying number of the largest cluster in the matrix and the # of items in that cluster.
+Signed NDA
+1)Leet code Easy
+Some easy substring problem
+,Brilliant
+NDA.
+valid number on leetcode
+If you could change anything about the fb application, what would it be?
+One easy level and a hard problem
+Based on sorting algorithms
+signed an NDA
+What you like and dislike about facebook. How would you change the thing you dislike ?
+I signed an NDA so I won't disclose the questions, but every algorithm I was asked to do should be on Leetcode.
+Given two binary numbers as strings, find their sum in binary
+Talk about a project you are proud of
+One leetcode medium and one leetcode hard
+Implement the parenthesis matching.
+How to find all words in a string that are valid (you can find them in the dictionary)?
+NDA
+Determine the consecutive elements in the array that sum to the target value.
+Binary Tree questions, string question, array question.
+The optimal way of sorting while traversing an array.
+Leetcode easy-medium for the first interview and medium-hards for the onsites. Standard STAR questions for the behavioral.
+DP problem. It was a complicated problem that took a paragraph to explain fully. I cant remember it in full
+Find celebrity
+Design a online music system
+Merge intervals
+1. Table A has one row, Table B has 20 rows.
+binary tree, Roman numbers, Island problem
+The question was perhaps a medium level leetcode question related to arrays.
+Why Facebook?
+I Signed NDA
+Four Sum,
+NDA
+Technical questions involving binary tree
+Given two very large numbers in the form of strings, multiple them and return the result also in string format.
+Given an array of integers and a sum, return the indices of subarray which adds up to the given sum.
+Implement typeahead feature
+Implement online chat system
+Regex string matching implementation for a particular set of patterns
+merge the two linkedlist
+Leetcode Hard and medium level questions on data structures & algorithms.
+How to implement a function to check whether there is a path for a string in a matrix of characters? It moves to left, right, up and down in a matrix, and a cell for a movement. The path can start from any entry in a matrix. If a cell is occupied by a character of a string on the path, it cannot be occupied by another character again  …
+Find clouds in an image. Essentially the island problem but diagonal 1’s are not part of the group.
+Diameter of binary tree. Find number of islands. Meeting room problem.
+Find max sum of a subarray
+Questions about picking elements in sorted arrays, dynamic programming, graph traversals.
+Explain the most difficult technical situation you have faced in a professional setting
+Signed NDA
+I was asked two questions during the technical phone screen. The first one was a variation of the LCA, and the second one was a variation of a palindrome problem.
+Tell me about yourself.
+What are the different types of database sharding.
+For each of my interview I just went through a single question and still got an offer. They really care about your thought process so make sure you're good in that aspect. Questions weren't too hard. I would say LC med or maybe hard (on the easier side). Check out FB tagged questions on linkedin.
+One technical coding question
+Given an integer, print it in English.
+What are some challenges you faced in your projects?
+Find the Kth largest element in an array
+Find the first bad version
+They asked me to design and write the code for a game like battle ship. Use ML to make this smarter
+Given two sorted arrays A and B where len(A) >= len(B), merge two arrays in-place into array A.
+Given a String like ((A9a)))()()()) remove parenthesis such that all parenthesis are balanced. by balanced, ((A9a)), ()%ge() like are balanced, ((() or ((ra))) are not balanced. your algorithm should run at O(n) time and O(1) space.
+Given a list of Strings [ "serer" , "ewewr", "ererr" ...] and give you another string regex containing a character '*', where '*' can match any single character, you should search the list and return a boolean value indicating whether any string in the list can match the regex.
+Describle a time when are taking responsibilities of others
+Max volume of trapped rain water in 3D
+find if a tree is a subtree of bigger tree.
+1. Find target element in array where array is divided in number of buckets
+algs/data structures, runtime
+Coding Question
+FB has a very standard interview process. Practice Leetcodes top 100 most frequently asked questions for facebook .
+I signed an NDA but it was a simple coding question related to numbers in an array
+Given pipe pieces in a grid, return whether water can flow from the top left corner to the lower right.
+Print all distinct permutations of a given string
+Contiguous sum problem.
+Count number of occurrences in an array
+2 Leetcode Mediums
+Given a list of points and a number k, find the k closest points to the origin.
+Given one string to sort and another that defines the order, sort the first string in the order the second string defines.
+Create a function that will determine if a given number is strobogrammatic. That is, the number looks the same rotated 180-degrees.
+Create a function that will generate all strobogrammatic numbers of a given digit length.
+Given a mathematical expression in prefix (+ 5 (* 7 8) 9 10 33) evaluate it.
+Given a binary tree, find shortest path from given node to nearest leaf (not including itself). Possibly traverse backwards up the tree.
+Given a list of tax brackets and what the taxes are for each, and an income, determine what that person owes in taxes.
+Given a blank nyt crossword, output where all the clues would be.
+Add two binary strings represented as Strings
+Design simplified Instagram.
+NDA signed.
+They only asked one programming challenge problem during phone interview.
+Leetcode FB questions
+Some classical algorithm questions from leetcode
+Verify if a word is a palindrome or can become a palindrome by removing a letter.
+Implement cd
+Curly Braces. If you are given a string with any number of Braces "[] {} ()" display if the braces line up properly.
+2 Very very easy questions
+Print a Binary Tree in Vertical Order
+One linked list question and one binary search question
+Delete a node from a linked list.
+Series of true/false questions. Required to explain answer.
+Find the local maximum of an array
+Validate a Binary Search Tree
+Given an array of sorted items and a number n, write a function that returns the index of n. SPOILER ALERT: the optimal algorithm will use binary search.
+3sum
+Leetcode problem
+Two technical interview questions
+Leetcode Questions - i.e. string manipulation, stack, backtracking, dfs/bfs, hashset, recursion
+Is a string Palindrome ? If not, Can the string be made a palindrome after removing a character from that String?
+Given a boolean array Cal = [F,F,F,T,T,F,T,T] where T: On vacation F: Not on vacation.
+Find the path of loot to 3 + 1.
+Leetcode
+Leetcode medium questions
+Convert integer to English. (e.g. 100 -> one hundred; 12345->twelve thousand three hundred forty five
+Given an integer array, find if the target sum exists as the sum of contiguous elements.
+coding questions. clone graph
+Quite standard. One related to data structure, and another is related to binary search.
+NA
+Something about how you showed teamwork
+Solve a set of equations [["A","B","C"], ["C","1"], ["B","C","1"], ["D","B","1"]] representing A = B + C, etc. The first element is always followed by an equal sign, and there is only + operator. The solution need to returned as a dictionary.
+Tax bracket array question
+Encode a binary tree is one i specifically remember, some other data structure/algo stuff as well
+about dynamic programming and quick select
+determine all the rotatable numbers of length k
+Q: Sort a binary tree
+Input [5,6,10] Output [60,50, 30]
+Continous subsequence with target
+2sum and some follow-ups
+Several tree questions. E.g. how to check if two BSTs have the same number of elements (linear time, constant space).
+typical hackerrank questions, mostly about lists
+String manipulation
+Technical questions
+Given an array of meeting time intervals consisting of start and end times find the minimum number of conference rooms required.
+inorder BST travel
+Question:
+3 Sum.
+Product of Array Except Self (ex. LeetCode)
+They asked me a lot about my experience and dig really into what I did. Seems like they asked me a lot more detail of my previous experience than what I remembered.
+What is your most proudest project?
+Onsite: LeetCode 1 Hard 5 Mediums 1 Easy and 1 Design
+Why do you want to work at Facebook
+1. Reverse a string in place, without using additional Data structure.
+Reverse words in string (words separated by spaces).
+Convert a string to binary tree representation
+binary
+buy and sell stocks
+Write a function to convert a string number into an integer .
+Provide a solution to the N-queens problem.
+Given a list of numbers, each indicating how many steps forward from that index (can wrap around), determine whether there's a complete cycle in this list.
+Experience with my past projects
+Both questions were related to algorithms and data structure
+Phone interview: You have a matrix of ints, if a row or column contains a 0, you should make that entire row or column values 0.
+How would you triangulate a polygon?
+Boggle board puzzle
+Write a function that takes a string S and an array of strings A and returns true if S can be reconstructed by any combination of the elements in A.
+Given two pre-sorted lists, merge the two.
+One string manipulation and one tree question
+With a tree write a program to double the value of each node.
+Take binary expansions as strings, and return the string containing their sum: add("10010", "101") = "10111".
+Substring search
+String Matching...
+What software development processes do you use?
+Given an array of integers, determine if there are 3 numbers in the array that sum to zero. It is also valid to use one number in the array more than once, they don't all have to be unique. Time complexity is important.
+Questions about real world practical applications.
+Q: Design a self driving car with artificial intelligence
+Solve the 2sum problem without using extra space
+NDA, but basic CS1 style questions, similar to other companies. Know your structures, specifically trees, and be able to apply them to a problem in working code on the fly.
+Implement method that generates n's fibonacci number.
+Binary tree traversal, basic stringology, basic graph algorithms.
+You&#039;re given an array of numbers, and you want to find 3 numbers that sum to 0 and output those 3 numbers. You can use each number multiple times. So if you&#039;re given the array [-1, 1, 2], you would output [-1, -1, 2] because -1 -1 +2=0
+I was asked a relatively standard question about BSTs.
+Given a matrix with 1's and 0's, find the number of groups of 1's. A group is defined by horiz/vertically adjacent 1's.
+all the questions are normal questions but I have some bugs and then got rejected.
+I was told not to disclose the details of my interview.
+Given a telephone number, find all the permutations of the letters assuming 1=abc, 2=def, etc.
+Given an array, move all the zeros to the end and return the number of nonzero elements in the array
+The pattern matching question in my 1st interview was reasonably tricky, but the interview did a fantastic job of giving me the right clues to help me solve it on my own.
+Bread-First Search on a Dictionary.
+Given a mapping of the english alphabet to numbers (i.e. a = 1, b = 2, k = 11) and a string of numbers (i.e. "110124"), determine the number of representations that the string may have in letters.
+Given a binary tree, print every node on each level on a new line (i.e. print all the nodes on level 0 on one line, print all the nodes on level 1 on another line, etc.)
+Write running code to print out the level order traversal of a binary tree
+1. implement sqrt() with integer.
+K nearest points to the origin on a 2D plane; one-pass reverse linked list with constant space.
+you have a longggg list of words, return a list of distinct words along with the count of how many occurred using only 16gb of memory
+tricky but fair questions
+Sort an array of characters into three groups, in O(n) time and using little extra memory.
+find largest element in non transitive sequence of elements.
+Given a list of numbers, find the consecutive sequence of numbers whose sums equal to a target number.
+Print the nodes of a binary tree columnwise . For example
+Print a linked list in reverse recursively and non-destructively.
+Standard dynamic problems.
+Given a set of strings, return the smallest subset that contains prefixes for every string.
+You have two words and would like to find the "minimum edit distance" between them. Edit distance is defined as the number of operations with: adding a letter, subtracting a letter, and replacing a letter. Make a function that finds the minimum edit distance.
+How would you speed up the file copying program you wrote?
+Given an array of integers, modify it in-place such that all non-zero values are on the higher end, and all zeros are on the lower end. Order of non-zero values can be ignored for the final result. Report and explain space and time complexities.
+My final interview question involved finding the smallest continuous pangram in a sequence of characters given a specific dictionary of all possible letters to use.
+A lot of string and array manipulation.
+Signed NDA.
+Talk about a project you did recently (and follow up questions related to that)
+You have two strings representing large ints that cannot be parsed into ints. How do you find their product.
+- decode ways (check it out on leetcode),
+A DP question and implement natural sort
+array manipulation stuff
+They're always gonna ask you "why Facebook". Other than that, be comfortable with some of the easy/medium questions tagged as Facebook on Leetcode. Be comfortable with graphs too.
+NDA
+Not relevant (see my comment) even if you answered correctly.
+Mostly algorithmic. In-person interviewer asked about my resume as well.
+1. How would one reconstruct a word from an input that does not contain any spaces.
+I'm not sharing specific questions.
+A recursive binary tree question.
+Figure out how many words are in a string
+Tell me about your self. How to sort a partially sorted array.
+Move zeros to right side of array
+Trie tree problem
+Tell me about a challenge you faced and how you overcame it
+Q: Given an array and a number, find if any two numbers in that array add up to the number.
+Implement Power Sets. Given [1,2,3], find all of its subsets.
+Tree-traversal and searching related question
+Write a function to add two binary numbers
+Find if any 3 numbers in an array sum to zero
+Given a random int n, print the first n lines of the sequence.
+Given an array of arrays which contain characters, find all the arrays with at least one common character and return them as pairs.
+NDA
+Short resume questions. Data structure questions.
+Why Facebook and a couple coding questions that I won't disclose.
+Wildcard Pattern recognition
+Why do you want to work at Facebook?
+Print out a pattern.
+Given a root note, confirm whether or not the given tree is a BST.
+Given a schedule (array of start and end times) for meetings, provide an algorithm that finds the minimum number of rooms needed for the day.
+Given a dictionary, store it in a way where you can implement a search function for a certain word. However, the words may have a character * that stands for any character.
+Level order traversal of a binary tree.
+Print binary tree column by column
+Knight tour problem to find the shortest path to reach a given destination.
+nda
+Binary search matrix
+question about DP. sth about decoding ways
+All interviews were coding questions, very similar to what you'd find in "Cracking the Coding Interview"
+How would you implement a queue with two stacks?
+Compute quotient and remainder without modulo
+How to determine whether or not a given binary search tree is valid? There are no duplicate nodes
+Technical question
+Questions involved arrays, linked lists, trees mostly.
+Why do you want to work here?
+Data structures and algorithms
+Like a graph question
+Given a list of lists, implement the iterator interface, and write code for next() and hasNext().
+Write a program to detect conflicts in meeting schedules
+Many programming questions related to arrays manipulations, but nothing too crazy.
+Shortest Snippet. Given a sequence [A, x, x, B, A, x, B], return the shortest sub-sequence for the given query [A, B].
+Remove all repeat characters in a string.
+First interview question: dutch flag problem. Given three color objects arranged randomly in an array, arrange them such that each object is together and their collective color groups are in the correct order.
+Give tasks of diferrent kinds and a cooldown time. Tasks of same kind must be separated by at least cooldown time to executed.
+1 technical question per interview
+Talk about how you develop your interests thru past working/research experience.
+Algorithm questions. Not extremely hard but you have to explain well.
+String manipulation (DFS)
+General questions based on my resume, leetcode medium questions
+Data structures and algorithms
+Add two binary strings
+Convert int to words
+Questions on Linked List (not available online)
+Leetcode medium
+Given an array of meeting time intervals consisting of start and end times [[s1,e1],[s2,e2],...] (si < ei), find the minimum number of conference rooms required.
+Asked me to write a function to list the prime factors of a number
+typically coding and system design questions. For security interview, I were asked for launch some attacks for one company.
+classical LC questions
+Some Dynamic Programming, don't believe the rumors that they banned those because I definitely got a few.
+For a linked list, delete the kth to last node.
+Design question:
+Imagine a two dimensional NxM grid of boxes. Each box may contain a pipe, which can connect to any of the 4 ordinal directions. Write a function that returns true if the pipe network(s) described by the grid are closed, i.e. there are no pipes connected to edges of the grid, or connected to an adjoining cell that does not have a pipe connecting to the shared side.   …
+The last memorable questions were all about vector math (in the sense of geometric vectors, not SIMD optimizations), and most of the time was spent with me trying to implement intersection tests, first sphere/sphere and then sphere/capsule.
+post-order traversal of a binary tree
+One Graph Question, couple of medium question and one tricky question that's hard to answer
+validate BST，question related to linkedlist, bq question
+Typical algorithm and data structures questions.
+Leetcode medium DP and Tree questions
+How would you design a scalable system for a given purpose?
+Given two strings, write a boolean function to determine whether the first string is the anagram substring of the second one.
+Max sum/product of a subarray in an array
+Binary Tree in-order iterator
+Design an API
+Reposition a linked list.
+In-order traversal of BT
+Tech phone screen was general tech conversation of technologies worked on, projects and past work experience and telling me about the work and culture at Sage Intacct. The interviewer was very sweet and polite.
+Facebook's questions are mostly from Leetcode. So prepare yourself and be confident.
+Given two string arrays, each one of the nodes containing a single string digit. Return the product of said arrays without parsing the whole array to a number.
+Signed NDA so can’t disclose specific questions. Study Facebook tagged Leetcode questions. While not all of them were on there, they focused on similar topics.
+Check if a given string is a valid number (Integer or Floating Point)
+Can you remember the situation when you were given most constructive feedback?
+Given a set, return all subsets of the set in a set.
+1st Interview had 2 questions : 1) Given a set of alphabets in sorted order in another language, sort a bunch of words using that alphabet ordering. Big O review afterwards
+Confidential
+Q: Behavioral questions
+I don't know because I couldn't hear the guy because his accent and his phone were so terrible. It was something about processing an array of strings in some special way.
+which group I would be the best fit for and why?
+Describe the most exciting project.
+Write a function to multiply two arbitrarily large integers.
+You are going to take some numbers as an input from a file. You need to witer a program to find longest increasing sequence. You should process it as soon as you are taking an input. After finishing the last input immediately you should be able to tell the sequence.
+A file contains 10 billions of Strings and need to find duplicate Strings. You have N number of systems available. How will you find duplicates?
+Given an array of integers and size find 3 integers that sum to zero. Explain a brute force algorithm
+Optimize the algorithm suggested above
+Write a piece of code to calculate a square root of a number.
+Design the Facebook Credit system which is a application where users can buy/trade virtual currency and can use the virtual currency to purchase Facebook services, like paid apps.
+What's the advantage of the design?
+How would the total credit points of a user be calculated based on my design?
+Write a code to convert an ASCII representation of a positive integer to it's numeric value.
+Design and implement an algorithm that would correct typos: for example, if an extra letter is added, what would you do?
+given a list of words with a same size and a big string that contains one of the permutation of all the words combined(say p), find the startindex of the string p in the big string
+Given a tree, print the values contained at each level on the same line.
+Find the min and max in an array. Now do it in less than 2n comparisons. (they were looking for the solution that finds both max and min in about 3/2 n comparisons).
+Compute the square root of a number down to a certain precision.
+What do you see as fb's biggest challenge in the next 5 years?
+search needle in haystack problem
+How to reverse a linked-list?
+Given a Binary Search Tree, iterate over the elements without using recursion.
+Given sorted arrays of length n and 2n with n elements each, merge first array into second array.
+You are given intervals of contiguous integers, like [1, 10), [15, 25), [40, 50), which are non-overlapping and of a fixed size.
+What is the running time of quicksoft?
+The question about what kind of position I would interest, frontend or backend? Since I never work before, I don't know what aspect is more suitable for me.
+Write a method to generate the Fibonacci series
+Implement stack using a queue
+Print out all combinations of k numbers out of 1...N
+Reverse a singly linked list
+Given a binary tree, print the nodes level by level
+Please write a program to merge 2 sorted arrays
+Each key on the telephone represents a list of letters. Given a telephone number, please write a program to output all the possible strings the telephone number represents.
+What's the complexity of binary search?
+What's the complexity of Binary Search?
+Given the numbers 1 to 1000, what is the minimum numbers guesses needed to find a specific number if you are given the hint "higher" or "lower" for each guess you make.
+Given a large string (haystack), find a substring (needle) on it.
+Do you have private projects?
+Do you like the new Facebook homepage?
+How to implement a DST?
+Why do you want to work at Facebook?
+In a list of integers, find out whether there are three numbers that sum up to zero.
+Series of multiple choice questions
+To implement regular expressions matching.
+HR: hash function search time, what is O(n)
+I was told not to share the questions they asked during the interview process.
+design question
+Print a binary tree level per level.
+quite easy, find the substring of the string
+In general it was not hard to take first interview
+Questions regarding dictionaries.
+None for the first interview.
+Shortest route between airports.
+There was a tree and I was supposed to make a double linked list from the tree using a pre order traversal.
+Clean code, test cases, scalable design, high level design...
+Convert a binary tree to a doubly circular linked list.
+Nothing difficult.
+Implement wildcard matchind (similar to leetcode problem).
+You given an array of scores that team can score in one game and the final team score. Write the code that returns a list of all possible intermediate scores.
+How to add two really large integers?
+given a string with parenthesis, eliminate the illegal parenthesis and return a legal string.
+Given a string of digits, where every digit represents a letter (1-&gt;a, 2-&gt;b, 26-&gt;z). Find the number of words that we can generate from that string.
+I said suffix tree is the best way to go, so he asked me how will a node of that tree will look like?
+Let A be an nxm Boolean 2D array. Find the largest subarray containing only 1s.
+scheduling problem
+One session of higher-level design, the rest are all standard algorithm sessions. All of this is explained in advance, so no surprises. One on-site session is a more traditional interview.
+how to reverse print a single linked list and questions on different data structures and running time
+What is one project you've worked on outside from school that you feel passionate about?
+1. Tell me about yourself
+Make sure you can tell them what YOU actually did in your previous projects, not what the project was.
+algorithmic questions about array, linked list, trees
+Move all zeroes to end of array with minimum assignment operations
+Given a string of an arithmetic expression, composed of numbers, '+' and '*', calculate the result -
+You have two lists with meetings scheduling (start time, end time)
+Write a function that calculates the root of a given number.
+Solve the skyline problem
+The only difficulty u will facebook to get in facebook is 1st round itself because u r supposed to code 3 question in 90 minutes.
+I only did few interviews so I was very nervous. That was the only reason for doing bad.
+Implement pattern matching for regular expressions.
+method to return sqrt.
+well, you know, NDA
+Implement LRU cache.
+Write a function to process regular expression with letter, ".", "*".
+How do you print all elements of a linked list.
+Find lowest common ancestor (LCA).
+Given two unsorted arrays, one with event start times and one with end times, find out if any two events overlap.
+The coding exercise is tough if you are not prepared. They frequently give questions on data structure, coding algorithm. You need to practise to get the best answer.
+The hardest for sure it`s the technical interview, not because it`s difficult to answer but you became so nervous, and you don`t know what they expected from you, for me was the hardest.
+Print all subsets of a set
+Implement a read/write lock.
+implement sqrt without using math libray
+An operation "swap" means removing an element from the array and appending it at the back of the same array. Find the minimum number of "swaps" needed to sort that array.
+What is the most exciting thing about the current project Im working on
+You are given an array of integers. Find all the combinations of the numbers of the array, that sum to another number(might be different for different combination) from the array.
+Max sum of non-adjacent value combination in an array.
+Design a simple regex parser. They give you a simple language grammar, something like matching patterns agains + or *. But nothing too complicated.
+given a set of integers, return a set of all such integers that sum upto a given value x
+Revert the given string and return the resulting string.
+Write a function which finds all components of a bitmap.
+Print a tree in a level order, printing a newline after each level.
+The questions weren't tough as such, I fumbled a bit with the code for the matrix question which i guess could have been handled better.
+Questions asked -
+Second one.
+None.
+During the second interview, I was asked to implement LCA in a binary tree (not BST) on collabedit.com. I was close, but not close enough...
+regular expression matching problem.
+The most difficult question was programming question where I had to design the best way to search for words starting with a particular word in a dictionary
+solving and debugging a code
+Can't point my finger on any one of them.
+Implement the code to display the nodes of a binary tree in order [i.e. level by level].
+It was a silly question - how to represent a recursive list of objects in Java, from a developer familiar with only type less languages. Had a hard time convincing him that the instanceof operator was necessary.
+-
+compress a string
+write some code, analyze the worst case complexity
+Given an integer, return all sequences of numbers that sum to it. (Example: 3 -&gt; (1, 2), (2, 1), (1, 1, 1))
+Given a matrix of numbers in which some may be zero. If a cell contains a zero, set all the cells in the corresponding column and row to zero.
+You are given a set of numbers 0 - n. Given a k, print all subsets of size k. Give the time complexity of the algorithm.
+Given an unsorted array of integers, find a 3-element subset that sums to zero
+Implement a function to compute cubic root
+Implement a LRU(Least Recently Used) cache
+FInd the maximum sum of a sub-sequence from an positive integer array where any two numbers of sub-sequence are not adjacent to each other in the original sequence. E.g 1 2 3 4 5 6 --&gt; 2 4 6
+Multiply two big integers which don't fit into an built-in integer type. How would you represent big numbers as a data structure? Write the function to multiply two big integers.
+Implement atof function. eg., +3.5e-2, .03e1, 1e1, 0.0
+Given an array of integers, check whether there are 3 numbers that sum up to 0.
+Data sources for text mining?
+Say you use SVN for source control..you have several revisions of a file...R1, r2, r3..etc..Someone checked in a bug and the revision became bad..need t find the first bad revision..gave a function findBadRevision(int goodRevision, int badRevision) so for e.g the revisions were GGBB and function passes in 0,4 so the first bad revision is 2. There exists a function boolean hasBug(int revision) which will tell us if a certain revision…
+Given a m*n grid starting from (1, 1). At any point (x, y), you has two choices for the next move:
+reserve linked list
+rotated sorted array search
+Given the root of a binary search tree along with a node inside it, find the successor node for the given one.
+Intersection of n sets without using a hash table.
+Ribosome test
+binary search tree
+are you eligible to work in the us
+A period of time where users login and logout, given a sets of login and logout time pairs, write a function that can show the number of users online at any given time.
+No unexpected question
+estimate the back-end capacity for mobile check in feature
+About my college education.
+Preferred position
+When can you start
+Given array find 3 elements that sum up to 0.
+Given array of elements of 3 types. Sort it.
+Find all sub sets of size k from given set
+Reverse linked list
+question on multi thread
+write an iterator function that returns next node in inorder traversal sequence in binary trees. You can write an init() function to initialize what you need
+Mix two binary strings with special constraints.
+You have a file consists of billions of records.
+Regx implementation
+Data structure for numbers that supports 2 operations: insert and get_median.
+Implement a read/write lock, given a mutex that has lock() and trylock() interface
+Lots of SQL and python program need to write in every round.
+What is a memory-efficient way to store a vector of integers? Follow-up question: using your proposed data structure, find an algorithm with constant memory usage to calculate the dot product of two vectors.
+Retrieve words from a dictionary that are made up of a subsequence of characters in an input string.
+Wildcard problem
+Given a binary tree, write code to print the tree out line by line
+The first problem was the classical "reverse a linked list" problem. It's easy, but may make you feel nervous as getting the pointer manipulation right may be tricky.
+A dynamic programming question about differences in words.
+I wasn't asked anything particularly difficult on this interview, the question that I remember was 'write a function to calculate the Square Root of a number without using square root function'
+Create an iterator to traverse a binary tree. When the next function is called on the binary tree return the value at the next node as if you are doing an inorder traversal of the tree. Restrictions: Nodes do not have pointers to their parent node and you can't use recursion.
+normal careercup question
+Nothing in special
+Given a list of k sublists containing n sorted integers, generate output as one sorted list.
+Questions are normal, you can find them all from leetcode.
+Design how to use 1000 bots to crawl wikipedia with some restrictions
+the puzzle
+When you are a team leader, and there are some members they usually delayed their tasks, how would you do?
+Given a normal binary tree, write a function to serialize the tree into a string representation (returning the string), and also a function to deserialize a serialized string into the original binary tree.
+Delete repeated characters on a string
+Basic coding problems, white board architecturing
+Write a function to determine if a string is a palindrome
+Convert a binary tree to double linked list.
+Algo Question: Take two binary numbers and add them
+Given an array of integers return true if two of the numbers add to X.
+Tell me about an interesting project that you have worked on.
+Palindrome algorithm, sort algorithm, tree algorithm, trie algorithm, chat architecture and design.
+The question was rather simple. He said, I gave you a function which only copy 50 bytes of memory, and it answer how many bytes it didn't read. Having this function how would you implement a fuction to copy a give number of bytes.
+Given a list of lists, where each node has a "bottom" and/or "right" child, and each bottom child has a bottom child, flatten it to return a list where all of them are right children. E.g.
+Given a number n, find the largest number just smaller than n that can be formed using the same digits as n.
+Don't recall all the questions, but some of the questions had to do with general programming patterns and memory usage, and the problems were mainly about knowing algorithms and complexity with Big O notation, stuff like that
+How to get out from a maze
+You a have a vector with the heights of an island (at point 1, point 2 etc) and you want to know how much water would remain on this island (without flowing away)
+Write a function that takes a list of words as input, and returns a list of those words bucketized by anagrams with duplicates removed.
+Given 2 interval ranges, create a function to tell me if these ranges intersect. Both start and end are inclusive: [start, end]
+Write a program for addition of two binary numbers e.g. 1001 + 1010
+Write a function that recive tree and return TRUE if the tree is binary search tree. And few more general questions on trees
+Given an array of positive ints and a target, check to see if any consecutive sum in the array can add up to the target
+Design a news feed that retrieves pictures on each post
+Find the common parent of two nodes in a binary tree, given that the nodes can refer to the parent.
+Given a list of votes, retrieve the product with the "silver" medal, if both are tied on first place, then the silver medal would be the third maximum.
+1.- Group anagramas
+Question about BST.
+Topological sort and insertion into balanced binary search tree (you could choose any kind of balanced binary search tree, I have chosen Treap)
+Given a string A and B return true if A occurs as an anagram in B
+Given an integer array and an input int x, return value of one or more int in the array that equals to int x.
+What were some prior projects you worked on?
+Given a distinct set of integers, return all possible subsets.
+Given string of a bit number, convert to int number and back.
+You have a 4 x 4 board with words. For example:
+Find the third element of a tree.
+Calculate square root of a number without using math libraries.
+algorithm and data structure such as merge 2 sorted array.
+-Meetings, start and end given for each, calculate minimum number of rooms needed
+Given a the price of a stock over time in an array, write an algorithm that identifies the optimum time time to buy the stock and the optimum time to sell in order to get the largest profit. You can only traverse the array one time.
+What's the biggest project you've ever done?
+I think (was a long time ago) I was asked to implement merge-sort in both a recursive and Iterative method.
+Take an array of numbers, find the fastest way to sort it so that all 0's in the array are moved to the right side modifying the existing array in place
+Given an array of numbers, find if there is any consecutive series that sums to a specific value
+Given a list of stock prices in historic order, find which dates to make two cycles of buy/sell would have yielded the highest profits
+Given a map between digits and a string, take a number and convert it to its string value
+Assume you are given a series of lines. each with a start point and an end point.
+why Facebook
+Some coding questions, go about my CV
+How do you test if water is toxic without tasting it
+What to do in case of a memory leak.
+Why Facebook
+Matrices, Arrays
+CS data structures question.
+one medium and one easy level Leet Code questions.
+Check whether string is palindrome or not ignoring special characters. For ex: "&^ab*ab" is a palindrome.
+1: Find a continuous subsequence which sums up to a target.
+Data structure / algorithm questions. UIKit / Apple SDK questions.
+Whiteboard CS puzzles, leetcode-like
+Best day at work, general Algo and DS questions
+Find number in sorted array with rotation. Ex. array is [5, 7, 8, 1, 3].
+The most challenging problem you faced and how you solved it.
+A variant of number of islands question.
+strings, trees and hashmaps
+Background and experience
+Find the subarray with maximum sum.
+You have some tasks that take some time and interdependencies between them. You can execute as many tasks as you want in parallel. For the given task compute what is the earliest time that it can be completed.
+Given a map M of characters (as keys) to array of characters, you are provided a string of keys S, print all possible mappings of S to M.
+Given a set of coordinates N find the K number of coords closest to center point.
+why facebook?
+Leetcode - easy and medium level.
+What is your relevant experience?
+Most of the questions are from LeetCode
+Given an array of n positive integers and a positive integer s, find the minimal length of a subarray of which the sum ≥ s. If there isn't one, return 0 instead.
+Test if it's possible to break up a sequence of characters into several known words.
+No of possible pairs in an array that add up to a particular sum.
+If a=1, b=2, c=3,....z=26. Given a string, find all possible codes that string can generate. Give a count as well as print the strings.
+90 minute hackerrank test
+stock buying and selling
+Design question - design database structure of url shortener. Improve it. Scale it. Think about all possible functions this project might need.
+What's something you worked on?
+Asked about two of my projects
+With a given text find anagrams of words and group them into String Arraylists
+Focus on DS and try to write code for sample programs as much as possible.
+Array Rotate (by k)
+Python Qs: 1. Write Program to get the most frequency occurring in file? 2. Given a list and a number find two numbers in the list that sums up to the number given? 3. Write Program to print a tree in level order traversal? 4. Write a function that accept the file, count and return the exact occurrence of a word based on count? 5. List a=[ 1,2,3 none, none]…
+Given an encoding of numbers to letters (A: 1, B: 2, ...), determine how many ways you can decode a string of digits.
+Dynamic programming problem from Leetcode
+Traverse BST
+Given a Read4K function which reads the first 4 KB of a datastream, implement a ReadN function which reads n bytes of the datastream using the Read4K function
+To explain in details why you want to work at Facebook
+Design question.
+Leetcode like questions.
+Describe your favorite project in the resume
+I signed an NDA
+Given a dictionary, find all pairs of words that, when concatenated together, form a palindrome.
+Why Facebook?
+How to get the ip of a machine.
+Describe other various unix commands such as grep, mv, rm, cd etc
+Difference s between java, c++ . and python.
+Tree , String manipulation, Linked List
+Tree and recursion problems
+Greedy algorithm question
+General programmer skills, algorithms, data structures and system design. You can find set of question in the book "Cracking coding interview"
+The problem was based on finding count of Anagrams in a string.
+1. solve the intersection of 2 ranges
+bintree to cyclic double linked list
+Past experience questions
+Cannot disclose
+What does typing "http://facebook.com" in browser do?
+1 cultural fit chat, 2 coding and 1 system design
+General questions about the work I've done
+(Phone screen questions)
+Print the smallest substring os an input string, which contains all the symbols from the input set of symbols.
+Quick test questions on CS basics, data structures and their comparisons, algorithms, their complexities
+Find if a word can be constructed from the dictionary
+Given some string S and substring B, find the starting index of the first anagram of B in S.
+Given a simple string with addition and multiplication applications (e.g. "8+3*12*5+32"), evaluate the expression.
+Asked questions about previous experience as well as a Depth First Search question.
+Phone:
+Checking if Linked List is palindromic
+Facebook will send you an email, telling you how to prepare the interview. Some sample questions are included.
+Flatten binary tree to doubly linked list
+Implement binary addition
+Find sequence of elements in a list to sum up to a target value in linear time
+Given a string made up of numbers, symbols, and parentheses. How to convert it into the string with parentheses pairing correctly.
+In the first interview they asked me about tree manipulation.
+Stacks
+Sort a list of numbers in ascending order.
+The interview was quite technical, one question was about a binary search tree. I had to implement code on an online platform.
+Preprocess dictionary as trie tree
+Calculate the maximum subarray sum based on non adjacent elements. explaining complexity.
+How would you detect if a binary tree is a binary search tree?
+Many are on cracking the coding interview.
+Questions I've been asked:
+Given an array of integers and a target number, find the two elements whose sum is closest to the target number.
+Given a string of numbers, ie, 11, count the number of permutations of this string if we were to the digits as array indexes of the alphabet. Assume the A = 1.
+Simple regex matching.
+compare the leaves of a tree with early exit
+giving lots of intervals [ai, bi], find a point intersect with the most number of intervals.
+discussing what can I do to improve my puzzle.
+Design a system to detect typos and provide suggestions to users.
+Given a list of strings, check if an input string lies within the list.
+Course Schedule
+Given an unsorted array of integers (e.g [1, -2, 4, 100]), write a method that checks if there is a triplet that sums to 0. You may use a number more than once. (e.g [-2, 1, 1] exists in said array and sums to 0, so true should be returned).
+Simple binary manipulation problem
+Simple question with string and searching based on binary search technique.
+There is an array of N integers. Find if there are such indices 0 <= i < j < k < N: a_i + a_j + a_k = 0.
+There is a string with '(', ')' and alphanumeric characters. Add a minimum number of characters to make it balanced, and return the resulting string.
+Convert a string consisting of numbers and parentheses into a binary tree.
+Both Leetcode Mediums. Doable. Just talk out loud!
+Traverse a tree
+There were simple programming questions, where the mainly observed interviewees coding skills. They also asked a few general questions about the student's interests in the behavioural round.
+Standard leetcode questions.
+do you understand devops process?
+Why do you want to work with Facebook
+Very standard questions during the behavioral interview, standard coding and system design questions during the technical interviews. Really no surprises in terms of topics, which I think is a good thing.
+Four short coding exercises and two system design interviews
+Create a function to return all subsets of a list of numbers.
+Asked to write a program to switch directories (given an array of current directory and a string of the directory to switch to)
