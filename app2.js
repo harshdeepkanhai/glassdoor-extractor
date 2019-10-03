@@ -40,11 +40,13 @@ let positions = [
       url = url.replace(/\.htm$/, '_IP2000.htm');
       console.log(url);
       await page.goto(url);
-      await page.waitForSelector('span.disabled');
       const pageno = await page.evaluate(() => {
-        return document.querySelector('span.disabled').innerText;
+        if (document.querySelector('span.disabled') == null) {
+          return 0;
+        } else {
+          return document.querySelector('span.disabled').innerText;
+        }
       });
-
       console.log(pageno);
       data.push({
         urls: url,
